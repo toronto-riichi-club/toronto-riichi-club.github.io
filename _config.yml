@@ -21,7 +21,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://torontoriichi.club'
 baseurl: ''
 title: 'Toronto Riichi Club'
 description: 'To ron, to riichi.'
