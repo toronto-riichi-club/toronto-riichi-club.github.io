@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Toronto Riichi Club'
+description: 'To ron, to riichi.'
 permalink: pretty
 logo: "/assets/logos/logo@52px.png"
 

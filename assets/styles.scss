@@ -4,3 +4,15 @@ styles: true
 ---
 
 @import "alembic";
+
+.header .logo {
+  color: $headingColour;
+
+  &:hover {
+    color: $linkColour;
+  }
+
+  img {
+    margin-right: 1em;
+  }
+}
