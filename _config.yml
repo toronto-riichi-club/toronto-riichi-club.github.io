@@ -29,6 +29,7 @@ description: 'To ron, to riichi.'
 permalink: pretty
 logo: "/assets/logos/logo@52px.png"
 repo: "https://github.com/toronto-riichi-club/toronto-riichi-club.github.io"
+email: "contact@torontoriichi.club"
 
 # Pagination
 paginate: 5
@@ -39,6 +40,7 @@ navigation_header:
   Home: /
 #  About: /about/
 #  Blog: /blog/
+  Contact: /contact/
 
 # Footer nav
 navigation_footer:
