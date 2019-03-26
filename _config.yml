@@ -23,10 +23,12 @@ plugins:
 # Site settings
 url: 'https://torontoriichi.club'
 baseurl: ''
+lang: en-CA
 title: 'Toronto Riichi Club'
 description: 'To ron, to riichi.'
 permalink: pretty
 logo: "/assets/logos/logo@52px.png"
+repo: "https://github.com/toronto-riichi-club/toronto-riichi-club.github.io"
 
 # Pagination
 paginate: 5
