@@ -29,3 +29,7 @@ Toronto, ON M6J 1V2
 ### Online
 
 TORI meets online every three weeks on Tuesdays in [Tenhou lobby 1416](http://tenhou.net/0/?L1416).
+
+## Join us!
+
+Join our [Discord group](https://discord.gg/S4SxKgw) to get all the latest updates. You can also send an email to [toronto-riichi-club+subscribe@googlegroups.com](mailto:toronto-riichi-club+subscribe@googlegroups.com) to subscribe to our mailing list.
