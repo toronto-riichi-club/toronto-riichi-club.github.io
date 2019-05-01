@@ -21,7 +21,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://torontoriichi.club'
+url: 'https://www.torontoriichi.club'
 baseurl: ''
 lang: en-CA
 title: 'Toronto Riichi Club'
