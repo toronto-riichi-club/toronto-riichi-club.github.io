@@ -27,7 +27,9 @@ lang: en-CA
 title: 'Toronto Riichi Club'
 description: 'To ron, to riichi.'
 permalink: pretty
-logo: "/assets/logos/logo@52px.png"
+logo: "/assets/logos/logo.svg"
+logo_width: 52
+logo_height: 52
 repo: "https://github.com/toronto-riichi-club/toronto-riichi-club.github.io"
 email: "contact@torontoriichi.club"
 
