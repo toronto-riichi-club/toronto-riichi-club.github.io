@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="1024" height="1024">
+  <!-- Background -->
+  <rect x="0" y="0" width="1024" height="1024" fill="#1AA0CD"/> <!-- Benjamin Moore Toronto Blue -->
+  <!-- Tile -->
+  <rect x="192" y="112" width="640" height="800" rx="96" ry="96" fill="white" stroke="black" stroke-width="32"/>
+  <!--<circle r="512" cx="512" cy="512" stroke="white" stroke-width="2" fill="none"/>-->
+</svg>
