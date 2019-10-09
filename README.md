@@ -13,7 +13,8 @@ It is a [Jekyll][] site deployed using [GitHub Pages][] at <https://www.torontor
 
 [github-pages-local]: https://help.github.com/en/articles/testing-your-github-pages-site-locally-with-jekyll
 
-Install [Ruby][] and [Bundler][]. Then run the following command:
+Install [Ruby][] and [Bundler][].
+Then, with an Internet connection, run the following command:
 
 ```sh
 bundle exec jekyll serve
