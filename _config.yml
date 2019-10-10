@@ -114,6 +114,8 @@ navigation_header:
 #  url: /about/
 #- title: Blog
 #  url: /blog/
+- title: Rules
+  url: /rules/
 - title: Resources
   url: /resources/
 - title: Contact
