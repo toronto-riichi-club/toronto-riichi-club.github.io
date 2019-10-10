@@ -91,8 +91,8 @@ TORI plays in lobby 1416 on Tenhou.
   * [Android](https://play.google.com/store/apps/details?id=com.mahjongtracker.androidapp) [Google Play]
 * JhongCalc (offline, free version can save one game per day)
   * [iOS](https://itunes.apple.com/ca/app/jhongcalc/id1067494143?mt=8) [App Store]
-* [Mahjong Helper](http://www.mahjonghelper.com/ ) (paid) [mahjonghelper.com]
-  * [Android](http://cyberdog.ca/wp-content/uploads/2019/06/android-badge.png) [Google Play]
+* [Mahjong Helper](http://www.mahjonghelper.com/) (paid) [mahjonghelper.com]
+  * [Android](https://play.google.com/store/apps/details?id=com.mahjonghelper.android) [Google Play]
   * [iOS](http://itunes.apple.com/lv/app/mahjong-helper/id380864349?mt=8) [App Store]
 * [Online Hand Calculator](http://mahjong.onevis.net/) [mahjong.onevis.net]
 
