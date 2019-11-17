@@ -5,15 +5,30 @@ styles: true
 
 @import "alembic";
 
-.header .logo {
-  color: $headingColour;
-
-  &:hover {
-    color: $linkColour;
+.header {
+  .container > *+* {
+    margin-left: 1em;
   }
 
-  img {
-    margin-right: 1em;
+  .logo {
+    color: $headingColour;
+    margin-right: auto;
+
+    &:hover {
+      color: $linkColour;
+    }
+
+    img {
+      margin-right: 1em;
+    }
+  }
+
+  .nav--social {
+    flex-direction: column;
+
+    @media(min-width: 640px) {
+      flex-direction: row;
+    }
   }
 }
 

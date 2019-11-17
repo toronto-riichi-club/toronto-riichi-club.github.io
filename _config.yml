@@ -125,6 +125,10 @@ navigation_footer:
 - title: Back to top
   url: "#top"
 
+social_links:
+  Twitter: https://twitter.com/torontoriichi
+  GitHub: https://github.com/toronto-riichi-club
+
 sharing_links:
   Twitter: https://twitter.com/torontoriichi
   GitHub: https://github.com/toronto-riichi-club
