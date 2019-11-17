@@ -4,6 +4,8 @@ layout: page
 feature_image: "/assets/logos/logo.svg"
 feature_text: |
   ## To Ron, To Riichi.
+class:
+  - no-feature-background
 ---
 
 The Toronto Riichi Club, abbreviated as TORI, was started by Daniel Tutor and Johann Tutor on November 12, 2018 after seeing the lack of riichi activity in Toronto. The club aims to promote Japanese mahjong (a.k.a. riichi) in the Toronto area.

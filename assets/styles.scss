@@ -17,7 +17,7 @@ styles: true
   }
 }
 
-.feature {
+body:not(.no-feature-background) .feature {
   p, h2 {
     background-color: #FFFFFFAA;
     box-shadow: 0 0 1em 1em #FFFFFFAA;
