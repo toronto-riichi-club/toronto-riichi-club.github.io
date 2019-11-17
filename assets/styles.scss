@@ -26,7 +26,7 @@ styles: true
   .nav--social {
     flex-direction: column;
 
-    @media(min-width: 640px) {
+    @include breakpoint(break-2) {
       flex-direction: row;
     }
   }
