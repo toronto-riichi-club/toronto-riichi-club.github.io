@@ -11,7 +11,7 @@ layout: page
 
 ## Discord servers
 
-* [TORI](https://discord.gg/NZ4XEVP)
+* [TORI](https://discord.gg/S4SxKgw)
 * [General mahjong](https://discord.gg/NZ4XEVP)
 * [Canadian mahjong](https://discord.gg/2Jxy4M5)
 
