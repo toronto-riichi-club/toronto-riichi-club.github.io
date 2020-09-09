@@ -98,8 +98,6 @@ TORI plays in lobby 1416 on Tenhou.
 
 ## RiichiOut!
 
-TORI is a member of RiichiOut, "a site devoted to organizing information about mahjong competitions, clubs, and players all in one location." It is organized by clubs in northeastern North America.
+TORI is a member of RiichiOut, "a group of Riichi Mahjong clubs, from North America and beyond, that promote friendship, learning, and inter-club activities!"
 
 * [Website](http://riichiout.com/)
-* [League rules](https://riichiout.com/league)
-* [Discord server](https://discord.gg/WEjmwQk)
