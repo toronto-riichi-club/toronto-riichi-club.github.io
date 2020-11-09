@@ -99,7 +99,7 @@ A [list of terms](#glossary) can be found below.
       <th><a href="http://arcturus.su/wiki/Tochuu_ryuukyoku">Abortive draws</a></th>
       <td colspan="2">Nashi</td>
       <td>WRC</td>
-      <td>There are no arbotive draws, including suucha riichi, suufon renda, suukaikan, kyuushuu kyuuhai, and suukaikan.</td>
+      <td>There are no abortive draws, including suucha riichi, suufon renda, suukaikan, kyuushuu kyuuhai, and sanchahou.</td>
     </tr>
     <tr>
       <th><a href="http://arcturus.su/wiki/End_game_scenarios#Tobi">Tobi</a></th>
