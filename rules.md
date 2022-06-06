@@ -8,7 +8,7 @@ Two sets of rules are in use for in-person play: one for casual gameplay, and on
 
 For online play, [Tenhou rules][] are used by nature of playing on Tenhou.
 
-[Tenhou rules]: http://arcturus.su/wiki/Tenhou.net_rules
+[Tenhou rules]: http://riichi.wiki/Tenhou.net_rules
 
 A [list of terms](#glossary) can be found below.
 
@@ -26,13 +26,13 @@ A [list of terms](#glossary) can be found below.
   </thead>
   <tbody>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Kuitan">Kuitan</a></th>
+      <th><a href="http://riichi.wiki/Kuitan">Kuitan</a></th>
       <td colspan="2">Ari</td>
       <td>WRC, Tenhou</td>
       <td>Open tanyao is allowed.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Atozuke">Atozuke</a></th>
+      <th><a href="http://riichi.wiki/Atozuke">Atozuke</a></th>
       <td colspan="2">Ari</td>
       <td>WRC, Tenhou</td>
       <td>The hand does not need to contain a yaku before the winning tile is claimed.</td>
@@ -51,32 +51,32 @@ A [list of terms](#glossary) can be found below.
       <td>At least one player must have at least this many points for the game to end normally (i.e. not reach an extra round).</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Oka_and_uma">Oka</a></th>
+      <th><a href="http://riichi.wiki/Oka_and_uma">Oka</a></th>
       <td colspan="2">0</td>
       <td>WRC</td>
       <td>There is no bonus for being in first place.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Oka_and_uma">Uma</a></th>
+      <th><a href="http://riichi.wiki/Oka_and_uma">Uma</a></th>
       <td colspan="2">15/5/-5/-15</td>
       <td>WRC</td>
       <td>After dividing the scores by 1000, this is the amount to add for each player.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Dora#akadora">Akadora</a></th>
+      <th><a href="http://riichi.wiki/Dora#akadora">Akadora</a></th>
       <td>One of each (as available)</td>
       <td>Nashi</td>
       <td>Tenhou</td>
       <td>Whether red fives are used. Red fives are worth one extra dora each.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Naki#Call_precedence">Calling precedence</a></th>
+      <th><a href="http://riichi.wiki/Naki#Call_precedence">Calling precedence</a></th>
       <td colspan="2">Ron→first</td>
       <td>WRC</td>
       <td>Ron precedes all calls. If no ron, then the first call has precedence. If calls are done simultaneously, pon/kan have priority over chii.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/kuikae">Kuikae</a></th>
+      <th><a href="http://riichi.wiki/kuikae">Kuikae</a></th>
       <td colspan="2">Nashi</td>
       <td>WRC, Tenhou</td>
       <td>Swap calling is not allowed. Swap calling is discarding the same tile that was called, or the opposite side of a ryanmen wait.</td>
@@ -89,20 +89,20 @@ A [list of terms](#glossary) can be found below.
       <td>The minimum number of points to legally call riichi.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/End_game_scenarios">Enchousen</a></th>
+      <th><a href="http://riichi.wiki/End_game_scenarios">Enchousen</a></th>
       <td>Ari</td>
       <td>N/A</td>
       <td>Tenhou</td>
       <td><dl><dt>Ari</dt><dd>If no player has reached the goal score, the game goes into the next round and continues until a player reaches the goal score. At ryuukyoku, if a non-dealer reaches the goal score and the dealer is in tenpai, the game continues.</dd></dl></td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Tochuu_ryuukyoku">Abortive draws</a></th>
+      <th><a href="http://riichi.wiki/Tochuu_ryuukyoku">Abortive draws</a></th>
       <td colspan="2">Nashi</td>
       <td>WRC</td>
       <td>There are no abortive draws, including suucha riichi, suufon renda, suukaikan, kyuushuu kyuuhai, and sanchahou.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/End_game_scenarios#Tobi">Tobi</a></th>
+      <th><a href="http://riichi.wiki/End_game_scenarios#Tobi">Tobi</a></th>
       <td>Ari</td>
       <td>Nashi</td>
       <td>Tenhou</td>
@@ -114,7 +114,7 @@ A [list of terms](#glossary) can be found below.
       </td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/End_game_scenarios#Agariyame">Agariyame</a></th>
+      <th><a href="http://riichi.wiki/End_game_scenarios#Agariyame">Agariyame</a></th>
       <td>Ari</td>
       <td>Nashi</td>
       <td>Tenhou</td>
@@ -126,7 +126,7 @@ A [list of terms](#glossary) can be found below.
       </td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Multiple_ron">Double ron</a></th>
+      <th><a href="http://riichi.wiki/Multiple_ron">Double ron</a></th>
       <td>Ari</td>
       <td>Atamahane</td>
       <td>Tenhou</td>
@@ -138,7 +138,7 @@ A [list of terms](#glossary) can be found below.
       </td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Multiple_ron">Triple ron</a></th>
+      <th><a href="http://riichi.wiki/Multiple_ron">Triple ron</a></th>
       <td>Ari</td>
       <td>Atamahane</td>
       <td>EMA</td>
@@ -150,43 +150,43 @@ A [list of terms](#glossary) can be found below.
       </td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Renchan">Renchan</a></th>
+      <th><a href="http://riichi.wiki/Renchan">Renchan</a></th>
       <td colspan="2">Winning hand, dealer tenpai</td>
       <td>WRC, Tenhou</td>
       <td>The dealer keeps their dealership and a honba is added when they win a hand, when they are in tenpai at an exhaustive draw, or when there is an abortive draw (if applicable).</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Riichi#Noten_riichi">Noten riichi</a></th>
+      <th><a href="http://riichi.wiki/Riichi#Noten_riichi">Noten riichi</a></th>
       <td colspan="2">Nashi</td>
       <td>WRC, Tenhou</td>
       <td>Calling riichi without being in tenpai is not allowed and will be penalized with chombo at ryuukyoku.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Ryanhan_shibari">Ryanhan shibari</a></th>
+      <th><a href="http://riichi.wiki/Ryanhan_shibari">Ryanhan shibari</a></th>
       <td colspan="2">Nashi</td>
       <td>WRC, Tenhou</td>
       <td>Hands still only need a minimum of one han to win with five or more honba on the table.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Kan#Kandora_timing">Daiminkan, shouminkan kandora</a></th>
+      <th><a href="http://riichi.wiki/Kan#Kandora_timing">Daiminkan, shouminkan kandora</a></th>
       <td colspan="2">Immediately</td>
       <td>WRC</td>
       <td>When an open kan or added kan is called, the kandora is flipped immediately after the call.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Kan#Kandora_timing">Ankan kandora</a></th>
+      <th><a href="http://riichi.wiki/Kan#Kandora_timing">Ankan kandora</a></th>
       <td colspan="2">Immediately</td>
       <td>WRC, Tenhou</td>
       <td>When a closed kan is called, the kandora is flipped immediately after the call.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Riichi#Furiten">Furiten riichi</a></th>
+      <th><a href="http://riichi.wiki/Riichi#Furiten">Furiten riichi</a></th>
       <td colspan="2">Ari</td>
       <td>WRC, Tenhou</td>
       <td>Declaring riichi while in furiten is allowed.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Nagashi_mangan">Nagashi mangan</a></th>
+      <th><a href="http://riichi.wiki/Nagashi_mangan">Nagashi mangan</a></th>
       <td>Ari, winning hand, closed only</td>
       <td>Nashi</td>
       <td>Waterloo</td>
@@ -198,61 +198,61 @@ A [list of terms](#glossary) can be found below.
       </td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Renhou">Renhou</a></th>
+      <th><a href="http://riichi.wiki/Renhou">Renhou</a></th>
       <td colspan="2">Ari, mangan</td>
       <td>WRC</td>
       <td>A player declaring ron before their first draw is awarded a mangan or the value of the hand, whichever is greater. No tiles may have been called by any other player prior to the ron.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Kokushi_musou#Chankan_rule_variation">Kokushi ankan chankan</a></th>
+      <th><a href="http://riichi.wiki/Kokushi_musou#Chankan_rule_variation">Kokushi ankan chankan</a></th>
       <td colspan="2">Ari</td>
       <td>WRC</td>
       <td>A player may call ron on a closed kan if it completes a kokushi musou.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Daisharin">Daisharin</a></th>
+      <th><a href="http://riichi.wiki/Daisharin">Daisharin</a></th>
       <td colspan="2">Nashi</td>
       <td>WRC, Tenhou</td>
       <td>A closed hand comprised of pairs from 2-8 in one suit is not scored as yakuman by itself.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Ryuuiisou#Variation">Ryuuiisou</a></th>
+      <th><a href="http://riichi.wiki/Ryuuiisou#Variation">Ryuuiisou</a></th>
       <td colspan="2">Hatsu not required</td>
       <td>WRC, Tenhou</td>
       <td>When going for ryuuiisou ("all green"), hatsu (green dragon) is not required in the hand.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Optional_yaku">Paarenchan</a></th>
+      <th><a href="http://riichi.wiki/Optional_yaku">Paarenchan</a></th>
       <td colspan="2">Nashi</td>
       <td>WRC, Tenhou</td>
       <td>Hands won with 8 honba on the table are scored normally.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Open_riichi#Open_riichi">Open riichi</a></th>
+      <th><a href="http://riichi.wiki/Open_riichi#Open_riichi">Open riichi</a></th>
       <td colspan="2">Nashi</td>
       <td>WRC, Tenhou</td>
       <td>Players cannot reveal waits when calling riichi.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Kan#Kan_during_riichi">Kan on riichi</a></th>
+      <th><a href="http://riichi.wiki/Kan#Kan_during_riichi">Kan on riichi</a></th>
       <td colspan="2">Ari, doesn't change interpretation or waits</td>
       <td>WRC</td>
       <td>A kan may be called after calling riichi only if doing so does not change the waits or the interpretation of the hand.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Pinfu#Fu">Pinfu tsumo</a></th>
+      <th><a href="http://riichi.wiki/Pinfu#Fu">Pinfu tsumo</a></th>
       <td colspan="2">20 fu</td>
       <td>WRC, Tenhou</td>
       <td>The 2 fu for tsumo are waived when pinfu tsumo is scored.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Chiitoitsu#Value">Chiitoi</a></th>
+      <th><a href="http://riichi.wiki/Chiitoitsu#Value">Chiitoi</a></th>
       <td colspan="2">2 han, 25 fu</td>
       <td>WRC, Tenhou</td>
       <td>The value of chiitoi is 2 han. The hand is always scored as 25 fu.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Fu#Yakuhai_pair">Double wind pair</a></th>
+      <th><a href="http://riichi.wiki/Fu#Yakuhai_pair">Double wind pair</a></th>
       <td colspan="2">4 fu</td>
       <td>WRC, Tenhou</td>
       <td>If a player has a pair of winds that is both their seat and the round wind, it is scored as 4 fu.</td>
@@ -264,19 +264,19 @@ A [list of terms](#glossary) can be found below.
       <td>The 2 fu for tsumo still applies when winning by rinshan.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Sekinin_barai">Pao</a></th>
+      <th><a href="http://riichi.wiki/Sekinin_barai">Pao</a></th>
       <td colspan="2">Daisangen, Daisuushi</td>
       <td>WRC, Tenhou</td>
       <td>The discarder of a third dragon or fourth wind when another player has already visibly claimed the two or three other sets is liable to pay the value of the whole hand if the hand wins by tsumo, or half its value if won by ron. No liability is incurred for discarding a tile that leads to a rinshan (rinshan pao), nor for discarding a tile that is claimed as another player's fourth kan (suukantsu pao).</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Multiple_yakuman#Single_yakuman_cap">Double yakuman</a></th>
+      <th><a href="http://riichi.wiki/Multiple_yakuman#Single_yakuman_cap">Double yakuman</a></th>
       <td colspan="2">Nashi</td>
       <td>WRC, Tenhou</td>
       <td>A single yakuman is never worth double its value. This includes daisuushi and the pure wait forms of kokushi musou and chuuren poutou.</td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Multiple_yakuman#Cumulative_single_yakuman">Yakuman stacking</a></th>
+      <th><a href="http://riichi.wiki/Multiple_yakuman#Cumulative_single_yakuman">Yakuman stacking</a></th>
       <td>Ari</td>
       <td>Nashi</td>
       <td>Tenhou</td>
@@ -288,7 +288,7 @@ A [list of terms](#glossary) can be found below.
       </td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Kazoe_yakuman">Kazoe yakuman</a></th>
+      <th><a href="http://riichi.wiki/Kazoe_yakuman">Kazoe yakuman</a></th>
       <td>Ari</td>
       <td>Nashi</td>
       <td>Tenhou</td>
@@ -300,7 +300,7 @@ A [list of terms](#glossary) can be found below.
       </td>
     </tr>
     <tr>
-      <th><a href="http://arcturus.su/wiki/Scoring_table#Kiriage_mangan">Kiriage mangan</a></th>
+      <th><a href="http://riichi.wiki/Scoring_table#Kiriage_mangan">Kiriage mangan</a></th>
       <td>Nashi</td>
       <td>Ari</td>
       <td>Tenhou</td>
@@ -346,7 +346,7 @@ A [list of terms](#glossary) can be found below.
 
 ## Glossary
 
-Other terms can be found in the [Arcturus wiki][arcturus-terms].
+Other terms can be found in the [Riichi Wiki][riichi-wiki-terms].
 
 <dl>
   <dt>Ari</dt> <dd>"On"</dd>
@@ -357,7 +357,7 @@ Other terms can be found in the [Arcturus wiki][arcturus-terms].
   <dt>WRC</dt> <dd>World Riichi Championship</dd>
 </dl>
 
-[arcturus-terms]: http://arcturus.su/wiki/List_of_terminology_by_alphabetical_order
+[riichi-wiki-terms]: http://riichi.wiki/List_of_terminology_by_alphabetical_order
 
 <style>
   .content {

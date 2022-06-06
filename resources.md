@@ -28,9 +28,9 @@ TORI plays in lobby 1416 on Tenhou.
 * [Light Grunty's riichi mahjong guide videos](https://www.youtube.com/channel/UC2E_GfC7EwgBrYtbDzonZew) [YouTube]
 * [General mahjong basics](http://mahjong.wikidot.com/basic-rules) [Mahjong Wiki]
 * [Japanese mahjong basics](https://mahjong.guide/a-beginners-guide-to-riichi-mahjong/) [mahjong.guide]
-* [Japanese mahjong basics](http://arcturus.su/wiki/Japanese_mahjong) [Arcturus wiki]
-* [List of yaku](http://arcturus.su/wiki/List_of_yaku) [Arcturus wiki]
-* [Furiten](http://arcturus.su/wiki/Furiten) [Arcturus wiki]
+* [Japanese mahjong basics](http://riichi.wiki/Japanese_mahjong) [Riichi Wiki]
+* [List of yaku](http://riichi.wiki/List_of_yaku) [Riichi Wiki]
+* [Furiten](http://riichi.wiki/Furiten) [Riichi Wiki]
 * [FAQ](https://reddit.com/r/Mahjong/comments/cdg75k/riichi_japanese_mahjong_faq/) [Reddit, /r/mahjong]
 
 ## Strategy resources for intermediate players
@@ -41,7 +41,7 @@ TORI plays in lobby 1416 on Tenhou.
 ## General learning
 
 * [Comprehensive list of terminology](http://uspml.com/documents/japanese_mahjong_guide_v103.pdf) [USPML]
-* [Japanese Mahjong Wiki](http://arcturus.su/wiki/) [Arcturus wiki]
+* [Japanese Mahjong Wiki](http://riichi.wiki/) [Riichi Wiki]
 
 ## Practice and testing tools
 
@@ -68,7 +68,7 @@ TORI plays in lobby 1416 on Tenhou.
   * [Japanese](https://mahjongsoul.com/) [mahjongsoul.com]
   * [Chinese](http://majsoul.union-game.com/) (Chinese, same as Mahjong Soul) [majsoul.union-game.com]
 * [Tenhou](http://tenhou.net/0) (Multiplayer, Flash or HTML5. Highly recommended.) [tenhou.net]
-  * [Unofficial English documentation](http://arcturus.su/tenhou/) [Arcturus wiki]
+  * [Unofficial English documentation](http://arcturus.su/tenhou/) [Arcturus]
   * [Unofficial English add-on (Chrome)](https://chrome.google.com/webstore/detail/tenhou-english-ui/cbomnmkpjmleifejmnjhfnfnpiileiin) [Chrome Web Store]
   * [Unofficial English add-on (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/tenhou-english) [Firefox Add-ons]
   * [Unofficial tracker](https://nodocchi.moe/) [nodocchi.moe]
