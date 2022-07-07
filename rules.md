@@ -66,7 +66,7 @@ A [list of terms](#glossary) can be found below.
       <th><a href="http://riichi.wiki/Dora#akadora">Akadora</a></th>
       <td>One of each (as available)</td>
       <td>Nashi</td>
-      <td>Tenhou</td>
+      <td>WRC (mod), Tenhou</td>
       <td>Whether red fives are used. Red fives are worth one extra dora each.</td>
     </tr>
     <tr>
@@ -85,7 +85,7 @@ A [list of terms](#glossary) can be found below.
       <th>Minimum points to riichi</th>
       <td>1000</td>
       <td>N/A</td>
-      <td>Tenhou</td>
+      <td>WRC (mod), Tenhou</td>
       <td>The minimum number of points to legally call riichi.</td>
     </tr>
     <tr>
@@ -105,7 +105,7 @@ A [list of terms](#glossary) can be found below.
       <th><a href="http://riichi.wiki/End_game_scenarios#Tobi">Tobi</a></th>
       <td>Ari</td>
       <td>Nashi</td>
-      <td>Tenhou</td>
+      <td>WRC (mod), Tenhou</td>
       <td>
         <dl>
           <dt>Ari</dt> <dd>The game ends when a player has less than 0 points.</dd>
@@ -189,7 +189,7 @@ A [list of terms](#glossary) can be found below.
       <th><a href="http://riichi.wiki/Nagashi_mangan">Nagashi mangan</a></th>
       <td>Ari, winning hand, closed only</td>
       <td>Nashi</td>
-      <td>Waterloo</td>
+      <td>WRC (mod)</td>
       <td>
         <dl>
           <dt>Ari, winning hand, closed only</dt> <dd>A nagashi mangan is treated as a winning hand at ryuukyoku. The hand must be closed (i.e. the player must not have claimed any tiles).</dd>
@@ -205,8 +205,9 @@ A [list of terms](#glossary) can be found below.
     </tr>
     <tr>
       <th><a href="http://riichi.wiki/Kokushi_musou#Chankan_rule_variation">Kokushi ankan chankan</a></th>
-      <td colspan="2">Ari</td>
-      <td>WRC</td>
+      <td>Ari</td>
+      <td>Nashi</td>
+      <td>EMA</td>
       <td>A player may call ron on a closed kan if it completes a kokushi musou.</td>
     </tr>
     <tr>
@@ -253,9 +254,10 @@ A [list of terms](#glossary) can be found below.
     </tr>
     <tr>
       <th><a href="http://riichi.wiki/Fu#Yakuhai_pair">Double wind pair</a></th>
-      <td colspan="2">4 fu</td>
-      <td>WRC, Tenhou</td>
-      <td>If a player has a pair of winds that is both their seat and the round wind, it is scored as 4 fu.</td>
+      <td>4 fu</td>
+      <td>2 fu</td>
+      <td>Tenhou</td>
+      <td>The number of fu scored by a pair of winds that is both the round wind and the player's seat wind.</td>
     </tr>
     <tr>
       <th>Rinshan tsumo</th>
@@ -265,9 +267,10 @@ A [list of terms](#glossary) can be found below.
     </tr>
     <tr>
       <th><a href="http://riichi.wiki/Sekinin_barai">Pao</a></th>
-      <td colspan="2">Daisangen, Daisuushi</td>
-      <td>WRC, Tenhou</td>
-      <td>The discarder of a third dragon or fourth wind when another player has already visibly claimed the two or three other sets is liable to pay the value of the whole hand if the hand wins by tsumo, or half its value if won by ron. No liability is incurred for discarding a tile that leads to a rinshan (rinshan pao), nor for discarding a tile that is claimed as another player's fourth kan (suukantsu pao).</td>
+      <td>Daisangen, Daisuushi</td>
+      <td>Daisangen, Daisuushi, Suukantsu</td>
+      <td>Tenhou</td>
+      <td>The discarder of a third dragon or fourth wind when another player has already visibly claimed the two or three other sets is liable to pay the value of the whole hand if the hand wins by tsumo, or half its value if won by ron. For tournament play, the discarder is also liable to pay when discarding a tile that is claimed as another player's fourth kan (suukantsu pao). No liability is incurred for discarding a tile that leads to a rinshan (rinshan pao).</td>
     </tr>
     <tr>
       <th><a href="http://riichi.wiki/Multiple_yakuman#Single_yakuman_cap">Double yakuman</a></th>
@@ -277,15 +280,9 @@ A [list of terms](#glossary) can be found below.
     </tr>
     <tr>
       <th><a href="http://riichi.wiki/Multiple_yakuman#Cumulative_single_yakuman">Yakuman stacking</a></th>
-      <td>Ari</td>
-      <td>Nashi</td>
-      <td>Tenhou</td>
-      <td>
-        <dl>
-          <dt>Ari</dt> <dd>If a hand is composed of multiple yakuman, the value of each yakuman is counted.</dd>
-          <dt>Nashi</dt> <dd>A hand containing multiple yakuman is scored as a single yakuman.</dd>
-        </dl>
-      </td>
+      <td colspan="2">Ari</td>
+      <td>WRC, Tenhou</td>
+      <td>If a hand is composed of multiple yakuman, the value of each yakuman is counted.</td>
     </tr>
     <tr>
       <th><a href="http://riichi.wiki/Kazoe_yakuman">Kazoe yakuman</a></th>
@@ -353,8 +350,8 @@ Other terms can be found in the [Riichi Wiki][riichi-wiki-terms].
   <dt>EMA</dt> <dd>European Mahjong Association</dd>
   <dt>Nashi</dt> <dd>"Off"</dd>
   <dt>Tenhou</dt> <dd>Tenhou.net</dd>
-  <dt>Waterloo</dt> <dd>Waterloo Riichi Club</dd>
   <dt>WRC</dt> <dd>World Riichi Championship</dd>
+  <dt>WRC (mod)</dt> <dd>World Riichi Championship, optional rules for casual play</dd>
 </dl>
 
 [riichi-wiki-terms]: http://riichi.wiki/List_of_terminology_by_alphabetical_order
