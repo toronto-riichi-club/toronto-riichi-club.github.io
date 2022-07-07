@@ -352,7 +352,7 @@ Other terms can be found in the [Riichi Wiki][riichi-wiki-terms].
   <dt>Ari</dt> <dd>"On"</dd>
   <dt>EMA</dt> <dd>European Mahjong Association</dd>
   <dt>Nashi</dt> <dd>"Off"</dd>
-  <dt>Tenhou</dt> <dd>Tehou.net</dd>
+  <dt>Tenhou</dt> <dd>Tenhou.net</dd>
   <dt>Waterloo</dt> <dd>Waterloo Riichi Club</dd>
   <dt>WRC</dt> <dd>World Riichi Championship</dd>
 </dl>
