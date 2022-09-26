@@ -6,13 +6,12 @@ styles: true
 @import "alembic";
 
 .header {
-  .container > *+* {
-    margin-left: 1em;
-  }
-
   .logo {
     color: $headingColour;
+    line-height: inherit;
+    max-height: unset;
     margin-right: auto;
+    flex: 0 1 auto;
 
     &:hover {
       color: $linkColour;
@@ -24,10 +23,17 @@ styles: true
   }
 
   .nav--social {
-    flex-direction: column;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+      margin-left: 1ex;
 
-    @include breakpoint(break-2) {
-      flex-direction: row;
+    @include breakpoint(break-1) {
+      max-width: 4em;
+    }
+
+    @include breakpoint(break-3) {
+      max-width: unset;
     }
   }
 }
