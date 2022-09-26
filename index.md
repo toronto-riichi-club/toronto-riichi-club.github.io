@@ -13,7 +13,7 @@ We meet regularly to play mahjong both online and in-person.
 
 TORI meets regularly both online and in person in and around the GTA.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=hcf286bplhs1pe6iq10dn9is1o%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=hcf286bplhs1pe6iq10dn9is1o%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0; max-width: 100%" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <small>Download our event calendar as [iCal](https://calendar.google.com/calendar/ical/hcf286bplhs1pe6iq10dn9is1o%40group.calendar.google.com/public/basic.ics).</small>
 
