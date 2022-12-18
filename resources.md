@@ -67,7 +67,7 @@ TORI plays in lobby 1416 on Tenhou.
   * [English](https://mahjongsoul.yo-star.com/) [mahjongsoul.yo-star.com]
   * [Japanese](https://mahjongsoul.com/) [mahjongsoul.com]
   * [Chinese](http://majsoul.union-game.com/) (Chinese, same as Mahjong Soul) [majsoul.union-game.com]
-* [Tenhou](http://tenhou.net/0) (Multiplayer, Flash or HTML5. Highly recommended.) [tenhou.net]
+* [Tenhou](http://tenhou.net/0) (Multiplayer, HTML5. Highly recommended.) [tenhou.net]
   * [Unofficial English documentation](http://arcturus.su/tenhou/) [Arcturus]
   * [Unofficial English add-on (Chrome)](https://chrome.google.com/webstore/detail/tenhou-english-ui/cbomnmkpjmleifejmnjhfnfnpiileiin) [Chrome Web Store]
   * [Unofficial English add-on (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/tenhou-english) [Firefox Add-ons]
