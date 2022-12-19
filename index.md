@@ -31,6 +31,6 @@ If you are in an area outside of these four regions, let us know and we may be a
 
 ## Join us!
 
-Join our [Discord server][] to get all the latest updates. You can also send an email to [toronto-riichi-club+subscribe@googlegroups.com](mailto:toronto-riichi-club+subscribe@googlegroups.com) to subscribe to our mailing list.
+Join our [Discord server][] to get all the latest updates.
 
 [Discord server]: https://discord.gg/S4SxKgw
