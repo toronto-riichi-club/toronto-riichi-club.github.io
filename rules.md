@@ -93,7 +93,7 @@ A [list of terms](#glossary) can be found below.
       <td>Ari</td>
       <td>N/A</td>
       <td>Tenhou</td>
-      <td><dl><dt>Ari</dt><dd>If no player has reached the goal score, the game goes into the next round (West for a hanchan and South for a tonpuusen) and continues until a player reaches the goal score. At ryuukyoku, if a non-dealer reaches the goal score and the dealer is in tenpai, the game continues. Enchousen lasts for only one round.</dd></dl></td>
+      <td><dl><dt>Ari</dt><dd>If no player has reached the goal score, the game goes into the next round (West for a hanchan and South for a tonpuusen). Play continues until the end of the round is reached, or the dealer is in the lead and above the goal score if a renchan would normally occur, or a player has met the goal score and a renchan would not normally occur. Enchousen lasts for only one round.</dd></dl></td>
     </tr>
     <tr>
       <th><a href="http://riichi.wiki/Tochuu_ryuukyoku">Abortive draws</a></th>
