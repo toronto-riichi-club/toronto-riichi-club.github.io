@@ -93,7 +93,7 @@ A [list of terms](#glossary) can be found below.
       <td>Ari</td>
       <td>N/A</td>
       <td>Tenhou</td>
-      <td><dl><dt>Ari</dt><dd>If no player has reached the goal score, the game goes into the next round and continues until a player reaches the goal score. At ryuukyoku, if a non-dealer reaches the goal score and the dealer is in tenpai, the game continues.</dd></dl></td>
+      <td><dl><dt>Ari</dt><dd>If no player has reached the goal score, the game goes into the next round (West for a hanchan and South for a tonpuusen) and continues until a player reaches the goal score. At ryuukyoku, if a non-dealer reaches the goal score and the dealer is in tenpai, the game continues.</dd></dl></td>
     </tr>
     <tr>
       <th><a href="http://riichi.wiki/Tochuu_ryuukyoku">Abortive draws</a></th>
