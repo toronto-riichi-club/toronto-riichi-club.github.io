@@ -5,7 +5,6 @@ categories:
 tags:
 - tournaments
 title: Toronto Riichi Open 2023
-feature_image: "/assets/logos/logo.svg"
 ---
 
 The Toronto Riichi Club is excited to announce the first Toronto Riichi Open (TRO). We hope to see you there!
