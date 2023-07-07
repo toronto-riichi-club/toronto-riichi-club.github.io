@@ -15,6 +15,12 @@ All those interested should join the [TRO Discord server][] or send an email to 
 [TRO Discord server]: https://discord.gg/XrhPZRwPMZ
 [toronto-riichi-open+subscribe@googlegroups.com]: mailto:toronto-riichi-open@googlegroups.com
 
+### Table of Contents
+{:.no_toc}
+
+* Table of Contents
+{:toc}
+
 ### Dates
 
 The TRO is a two-day tournament.
