@@ -46,11 +46,16 @@ From Union Station:
 
 The tournament fee is **$80 CAD**.
 
-**Registration will open on July 7, 2023.** The link to the registration form will be posted here. There is a limit of 64 entrants; those registering after the limit will be put on a waiting list.
+Fill out the **[registration form][]** (disponible en français) before July 21, 2023 to register for the tournament. There is a limit of 64 entrants; those registering after the limit will be put on a waiting list.
+
+[registration form]: https://docs.google.com/forms/d/e/1FAIpQLSdbnYxpb_hUpY_odnB-gi6jVWfu9d4iJayz851ODKUbm9W42w/viewform?usp=sf_link
 
 Within 48 hours of registering, you should receive an email with an invoice (send an email to [tournaments@torontoriichi.club][] if you have not). The invoice shall be paid to the Toronto Riichi Club PayPal account and is due July 23, 2023. If your payment is not received by that date, you forfeit your spot to the next person on the waiting list. Payments by cash (CAD only) will also be accepted at the Toronto Riichi Club meetups in July.
 
 [tournaments@torontoriichi.club]: mailto:tournaments@torontoriichi.club
+
+<small>The registration form has been translated into French with the help of Grant M. from the Montreal Riichi Club.  
+Le formulaire d'inscription a été traduit en français avec l'assistance de Grant M. du Club riichi de Montréal.</small>
 
 #### Refund Policy
 
