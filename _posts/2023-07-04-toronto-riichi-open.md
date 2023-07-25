@@ -99,8 +99,7 @@ The second day will be split into two halves. After the first half, a cut to the
   - All other players: scores will be reset.
 - Second half:
   - 2 hanchan
-  - No hanchan time limit for the top 16.
-  - 90 minute hanchan time limit for all other tables. Unfinished hands being played at the time limit will be played to completion.
+  - 105 minute hanchan time limit. Unfinished hands being played at the time limit will be played to completion.
 
 ### Schedule
 
