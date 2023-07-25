@@ -102,6 +102,49 @@ The second day will be split into two halves. After the first half, a cut to the
   - No hanchan time limit for the top 16.
   - 90 minute hanchan time limit for all other tables. Unfinished hands being played at the time limit will be played to completion.
 
+### Schedule
+
+All times are in EDT.
+
+{::options parse_block_html="true" /}
+
+#### First day
+
+<div class="schedule-container">
+
+| Start time | Event
+|------------|--------------------------
+| **09:00**  | Registration and opening
+| **10:00**  | Hanchan 1
+| **11:30**  | Break
+| **11:45**  | Hanchan 2
+| **13:15**  | Lunch
+| **14:15**  | Hanchan 3
+| **15:45**  | Break
+| **16:00**  | Hanchan 4
+| **17:30**  | Free play
+
+</div>
+
+#### Second day
+
+<div class="schedule-container">
+
+| Start time | Event
+|------------|--------------------------
+| **09:00**  | Reorganization
+| **10:00**  | Hanchan 5
+| **11:30**  | Break
+| **11:45**  | Hanchan 6
+| **13:15**  | Lunch
+| **14:15**  | Hanchan 7
+| **16:00**  | Break
+| **16:15**  | Hanchan 8
+| **18:00**  | Awards ceremony and group photo
+| **18:30**  | Free play
+
+</div>
+
 ### Prizes
 
 Trophies and medals will be awarded to the top 8 players.
@@ -110,3 +153,17 @@ Trophies and medals will be awarded to the top 8 players.
 
 All questions and concerns can be directed to [tournaments@torontoriichi.club][] or the [TRO Discord server][].
 Send an email to [toronto-riichi-open+subscribe@googlegroups.com][] to subscribe to the mailing list.
+
+<style>
+  .schedule-container {
+    margin-bottom: 1em;
+  }
+
+  .schedule-container table {
+    table-layout: fixed;
+  }
+
+  .schedule-container tr + tr {
+    border-top: 1px solid #242424;
+  }
+</style>
