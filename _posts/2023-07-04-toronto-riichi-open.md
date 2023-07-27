@@ -8,6 +8,8 @@ title: Toronto Riichi Open 2023
 description: The Toronto Riichi Club is excited to announce the first Toronto Riichi Open (TRO). We hope to see you there!
 ---
 
+{::options parse_block_html="true" /}
+
 The Toronto Riichi Club is excited to announce the first Toronto Riichi Open (TRO). We hope to see you there!
 
 All those interested should join the [TRO Discord server][] or send an email to [toronto-riichi-open+subscribe@googlegroups.com][] to subscribe to the mailing list.
@@ -69,6 +71,58 @@ Le formulaire d'inscription a été traduit en français avec l'assistance de Gr
 
 Refunds will only be issued in case of emergencies. If you have an emergency and need to withdraw from the tournament, please contact [tournaments@torontoriichi.club][] to request a refund.
 
+<details style="margin-top: 1em;">
+
+<summary>
+#### Participants
+</summary>
+
+<div class="table-container">
+
+
+| Name | Club/Region |
+|-|-|
+| Andrew S. | SE Michigan Riichi |
+| Ben Z. | Riichi Nomi NYC |
+| Dennis K. | Toronto Riichi Club (TORI) |
+| Eric Z. | Toronto Riichi Club (TORI) |
+| Frank W. | Toronto Riichi Club (TORI) |
+| Grant M. | Montreal Riichi Club |
+| Guo Qiang C. | Toronto, Canada |
+| Henry V. | Toronto Riichi Club (TORI) |
+| Isaac V. | Toronto Riichi Club (TORI) |
+| Ivan W. | Toronto Riichi Club (TORI) |
+| Jeremy T. | Toronto Riichi Club (TORI) |
+| Jim Y. | Toronto Riichi Club (TORI) |
+| Leo Z.  | Toronto Riichi Club (TORI) |
+| Lorenzo D. | Montreal Riichi Club |
+| Max S. | Greater Cincinnati Riichi Mahjong |
+| Melissa F. | Riichi Nomi NYC |
+| Melvin P. | Riichi Nomi NYC |
+| Michael D. | Ontario, Canada |
+| Michael M. | Toronto Riichi Club (TORI) |
+| Miguel C. | Toronto Riichi Club (TORI) |
+| Paul C. | Ottawa, Canada |
+| Philippe O. | Montreal Riichi Club |
+| Pio Y. | Riichi Nomi NYC |
+| Rob C. | Toronto Riichi Club (TORI) |
+| Ryan W. | Manitoba, Canada |
+| Takahiro S. | |
+| Tony T. | Ontario, Canada |
+| Ty K. | Nine Gates Mahjong Club |
+| Vincent S. | Toronto Riichi Club (TORI) |
+| Vincent Z. | Toronto Riichi Club (TORI) |
+| William S. | Columbus Riichi Mahjong Club |
+| Wing Chun W. | Hong Kong Mahjong Association (HKMA) |
+| Yufang H. (Harry) | Toronto Riichi Club (TORI) |
+| _Name withheld by request_ | Toronto Riichi Club (TORI) |
+| _Name withheld by request_ | Toronto Riichi Club (TORI) |
+| _Name withheld by request_ | Toronto Riichi Club (TORI) |
+
+</div>
+
+</details>
+
 ### Food
 
 Catering will be provided by TMU. Please advise us of any dietary restrictions in the registration form. There are also many other food options available within walking distance of the tournament venue.
@@ -105,11 +159,9 @@ The second day will be split into two halves. After the first half, a cut to the
 
 All times are in EDT.
 
-{::options parse_block_html="true" /}
-
 #### First day
 
-<div class="schedule-container">
+<div class="table-container">
 
 | Start time | Event
 |------------|--------------------------
@@ -127,7 +179,7 @@ All times are in EDT.
 
 #### Second day
 
-<div class="schedule-container">
+<div class="table-container">
 
 | Start time | Event
 |------------|--------------------------
@@ -154,15 +206,23 @@ All questions and concerns can be directed to [tournaments@torontoriichi.club][]
 Send an email to [toronto-riichi-open+subscribe@googlegroups.com][] to subscribe to the mailing list.
 
 <style>
-  .schedule-container {
+  .table-container {
     margin-bottom: 1em;
   }
 
-  .schedule-container table {
+  .table-container table {
     table-layout: fixed;
   }
 
-  .schedule-container tr + tr {
+  .table-container tr + tr {
     border-top: 1px solid #242424;
+  }
+
+  summary {
+    display: list-item;
+  }
+
+  summary h4 {
+    display: inline-block;
   }
 </style>
