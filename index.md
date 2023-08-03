@@ -11,7 +11,11 @@ We meet regularly to play mahjong both online and in-person.
 
 ## Toronto Riichi Open 2023
 
-The Toronto Riichi Club is excited to announce the first Toronto Riichi Open (TRO)! Please see the [announcement post]({% post_url 2023-07-04-toronto-riichi-open %}) for details and registration.
+The Toronto Riichi Club is excited to announce the first Toronto Riichi Open (TRO)! Please see the [announcement post][TRO announcement post] for details and registration.
+
+[![TRO logo](/assets/logos/tro.svg)][TRO announcement post]
+
+[TRO announcement post]: {% post_url 2023-07-04-toronto-riichi-open %}
 
 ## Meetups
 
