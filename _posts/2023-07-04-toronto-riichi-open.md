@@ -84,6 +84,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Andrew S. | SE Michigan Riichi |
 | Ben Z. | Riichi Nomi NYC |
 | Calvin C. | Riichi Nomi NYC |
+| Christopher L. | Riichi Nomi NYC |
 | Dennis K. | Toronto Riichi Club (TORI) |
 | Eric Z. | Toronto Riichi Club (TORI) |
 | Estey G. | Nine Gates Mahjong Club |
@@ -98,6 +99,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Leo Z.  | Toronto Riichi Club (TORI) |
 | Lorenzo D. | Montreal Riichi Club |
 | Luke M. | Hammergirl Anime Mahjong |
+| Mark T. | Toronto Riichi Club (TORI) |
 | Max S. | Greater Cincinnati Riichi Mahjong |
 | Melissa F. | Riichi Nomi NYC |
 | Melvin P. | Riichi Nomi NYC |
