@@ -16,7 +16,7 @@ feature_image: /assets/logos/tro.svg
 - Put your phones to silent and remove any smartwatches.
 - Arrive at your assigned table on time.
 - Be respectful to everything: staff, players, equipment, venue, etc.
-- After your game is done, please move to the assigned waiting location, being aware of other tables that may still be playing.
+- After your game is done, move to the assigned waiting location, being aware of other tables that may still be playing.
 - Go to the washroom between hanchan.
 
 ## During games
