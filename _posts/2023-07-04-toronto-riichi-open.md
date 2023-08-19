@@ -144,8 +144,10 @@ There are many reasonably-priced hotels within walking distance of the tournamen
 ### Rules and Format
 
 The tournament will follow the [WRC 2022 rules][] with the lower penalties described by Mod 6.3 in the optional rules.
+[Tournament etiquette][] will also be observed.
 
 [WRC 2022 rules]: https://www.worldriichi.org/wrc-rules
+[tournament etiquette]: {% link tournament-etiquette.md %}
 
 #### First day
 
