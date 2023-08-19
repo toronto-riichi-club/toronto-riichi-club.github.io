@@ -44,7 +44,7 @@ feature_image: /assets/logos/tro.svg
 
 ### Scores and winning
 
-- If won by tsumo, keep the winning tile separate from your hand.
+- If won by tsumo, show the winning tile and keep it separate from the rest of your hand.
 - If won by ron, do not take the winning tile. Leave it in your opponent’s discard area.
 - Don’t toss or throw the point sticks.
 - Place your sticks on the table and not by hand so the amount can be verified by all players.
