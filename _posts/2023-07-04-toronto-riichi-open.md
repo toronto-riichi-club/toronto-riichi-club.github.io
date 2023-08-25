@@ -54,6 +54,11 @@ From Union Station:
 2. Exit the station and take the 505 Dundas streetcar eastbound to Dundas St East at Jarvis St.
 3. Walk north along Jarvis St to the International Living/Learning Centre, on your left.
 
+There is a [closure on Line 2][] between St. George and Broadview on Sunday until noon.
+Shuttle buses will be available to service the affected area of the route, but it may be faster to transfer to Line 1 instead if you are affected.
+
+[closure on Line 2]: https://www.ttc.ca/service-advisories/subway-service/2-Line-2-Bloor---Danforth-St-George-to-Broadview-late-opening-Aug-27-2023
+
 ### Fees and Registration
 
 **Update 2023-07-17**: The deadlines have been extended to **July 31, 2023** for registration and **August 5, 2023** for payment.
