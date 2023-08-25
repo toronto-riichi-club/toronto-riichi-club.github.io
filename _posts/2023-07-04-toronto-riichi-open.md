@@ -41,6 +41,9 @@ Canada
 
 <div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11545.952324671844!2d-79.375547!3d43.658818!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cb4a12218ae5%3A0xc0dc5aa89f3d9036!2sTMU%20International%20Living%20%26%20Learning%20Centre!5e0!3m2!1sen!2sca!4v1688450699233!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
 
+After entering from the Jarvis St. entrance, walk straight down the hall past reception and vending machine.
+The room will be on the left just past the open waiting area.
+
 <!-- more -->
 
 #### Transit
