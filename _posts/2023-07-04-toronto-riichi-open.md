@@ -18,6 +18,10 @@ All those interested should join the [TRO Discord server][] or send an email to 
 [TRO Discord server]: https://discord.gg/XrhPZRwPMZ
 [toronto-riichi-open+subscribe@googlegroups.com]: mailto:toronto-riichi-open@googlegroups.com
 
+**Update 2023-08-26**: Check out the [scores][]!
+
+[scores]: {% post_url 2023-08-26-toronto-riichi-open-results %}
+
 ### Table of Contents
 {:.no_toc}
 
