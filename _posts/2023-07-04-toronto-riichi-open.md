@@ -203,6 +203,8 @@ All times are in EDT.
 
 #### Second day
 
+**Update 2023-08-27**: Breaks lengthened.
+
 <div class="table-container">
 
 | Start time | Event
@@ -210,13 +212,13 @@ All times are in EDT.
 | **09:00**  | Reorganization
 | **10:00**  | Hanchan 5
 | **11:30**  | Break
-| **11:45**  | Hanchan 6
-| **13:15**  | Lunch
-| **14:15**  | Hanchan 7
-| **16:00**  | Break
-| **16:15**  | Hanchan 8
-| **18:00**  | Awards ceremony and group photo
-| **18:30**  | Free play
+| **11:50**  | Hanchan 6
+| **13:20**  | Lunch
+| **14:30**  | Hanchan 7
+| **16:15**  | Break
+| **16:35**  | Hanchan 8
+| **18:20**  | Awards ceremony and group photo
+| **18:50**  | Free play
 
 </div>
 
