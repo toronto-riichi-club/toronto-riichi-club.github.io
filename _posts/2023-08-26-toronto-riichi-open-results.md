@@ -125,6 +125,10 @@ Scores for were halved (rounding up) for the top 16, and reset for the rest.
 
 * * *
 
+Thank you to all participants, staff and substitutes for making this tournament a success. Thanks as well to [ReachMahjong.com][] for sponsoring some of the prizes. See you all next year!
+
+[ReachMahjong.com]: http://reachmahjong.com/
+
 <figure id="group-photo">
 ![Group photo with the participants, staff and substitutes of the Toronto Riichi Open 2023. Prize winners show off their awards.](/assets/tro/2023/tro-2023-group.jpg)
 <figcaption>
