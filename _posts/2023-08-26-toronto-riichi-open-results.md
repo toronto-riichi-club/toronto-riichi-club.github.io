@@ -63,6 +63,8 @@ Scores for were halved (rounding up) for the top 16, and reset for the rest.
 
 [Toronto Riichi Open 2023]: {% post_url 2023-07-04-toronto-riichi-open %}
 
+<!-- more -->
+
 <div class="score-table-container">
 
 | Rank | Name | Club | Score |
