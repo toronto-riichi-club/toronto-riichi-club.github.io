@@ -22,6 +22,8 @@ All those interested should join the [TRO Discord server][] or send an email to 
 
 [scores]: {% post_url 2023-08-26-toronto-riichi-open-results %}
 
+<!-- more -->
+
 ### Table of Contents
 {:.no_toc}
 
@@ -47,8 +49,6 @@ Canada
 
 After entering from the Jarvis St. entrance, walk straight down the hall past reception and vending machine.
 The room will be on the left just past the open waiting area.
-
-<!-- more -->
 
 #### Transit
 
