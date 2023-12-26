@@ -30,7 +30,7 @@ TORI meets regularly both online and in person in and around the GTA.
 
 ### Online
 
-TORI meets online every Tuesday in [Tenhou lobby 1416](http://tenhou.net/0/?L1416).
+TORI meets online every 2nd and 4th Tuesday of the month in [Tenhou lobby 1416](http://tenhou.net/0/?L1416).
 Please join the [Discord server][] as games are coordinated there.
 
 ### In Person
