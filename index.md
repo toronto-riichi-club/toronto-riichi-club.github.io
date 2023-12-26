@@ -35,10 +35,30 @@ Please join the [Discord server][] as games are coordinated there.
 
 ### In Person
 
-TORI meets in person every month in Peel, Toronto, York and Waterloo.
-Check the region chats in the [Discord server][] for details and to RSVP.
+TORI meets in person every month in Toronto, Peel and York.
+You are welcome to join any meetup even if you are not a resident of the region, but space is limited, so please RSVP in the [Discord server][] if you wish to attend.
 
 If you are in an area outside of these four regions, let us know and we may be able to get a meetup started in your region!
+
+York Region Meetup
+2nd or 3rd Saturday
+Twilight Cafe Scarborough
+35-3300 Midland Ave, Toronto, ON M1V 4W7
+
+Downtown Toronto Meetup
+1st Saturday
+17 Tiles
+556 Yonge St 2nd & 3rd Floors, Toronto, ON M4Y 1Y8
+
+Midtown Toronto Meetup
+3rd Tuesday
+For The Win
+3216 Yonge St, Toronto, ON M4N 2L2
+
+Peel Region Meetup
+4th Sunday
+Dicey Business
+6905 Millcreek Dr, Mississauga, ON L5N 6A3
 
 ## Join us!
 
