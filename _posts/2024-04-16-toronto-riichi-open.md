@@ -43,6 +43,9 @@ Canada
 
 <div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d721.6204639204612!2d-79.38223997741962!3d43.658947498583004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34b5519b1837%3A0x279e55d0d35a2c98!2s380%20Victoria%20St%2C%20Toronto%2C%20ON%20M5B%201W7!5e0!3m2!1sen!2sca!4v1712882596039!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
 
+[![380 Victoria St walkway](/assets/tro/2024/380-victoria-walkway.720.jpg)](/assets/tro/2024/380-victoria-walkway.jpg)
+[![380 Victoria St entrance](/assets/tro/2024/380-victoria-entrance.720.jpg)](/assets/tro/2024/380-victoria-entrance.jpg)
+
 #### Transit
 
 From Union Station:
