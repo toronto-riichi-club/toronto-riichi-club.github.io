@@ -59,7 +59,9 @@ From Union Station:
 
 The early bird tournament fee is **$75 CAD** if you register and pay by <time datetime="2024-06-30T23:59-0400">June 30, 2024 11:59 pm EDT</time>. After that date, the fee will be raised to **$85 CAD**.
 
-**Registration will open on April 23, 2024.** There is a limit of 80 entrants; those registering after the limit will be put on a waiting list.
+**Registration is now open.** Fill out the [registration form][] (disponible en français) by <time datetime="2024-07-20T23:59-0400">July 20, 2024 11:59 pm EDT</time> to register for the tournament. There is a limit of 80 entrants; those registering after the limit will be put on a waiting list.
+
+[registration form]: https://forms.gle/xdjyXYTmt8hJQSbF6
 
 Within 48 hours of registering, you should receive an email with an invoice (send an email to [tournaments@torontoriichi.club][] if you have not). The invoice shall be paid to the Toronto Riichi Club PayPal account and is due on the date listed in the invoice. If your payment is not received by that date, you forfeit your spot to the next person on the waiting list.
 
