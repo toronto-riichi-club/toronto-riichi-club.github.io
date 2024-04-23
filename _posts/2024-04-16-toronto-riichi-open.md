@@ -63,7 +63,7 @@ The early bird tournament fee is **$75 CAD** if you register and pay by <time da
 
 [registration form]: https://forms.gle/xdjyXYTmt8hJQSbF6
 
-Within 48 hours of registering, you should receive an email with an invoice (send an email to [tournaments@torontoriichi.club][] if you have not). The invoice shall be paid to the Toronto Riichi Club PayPal account and is due on the date listed in the invoice. If your payment is not received by that date, you forfeit your spot to the next person on the waiting list.
+Within 48 hours of registering, you should receive an email with an invoice (send an email to [tournaments@torontoriichi.club][] if you have not). The invoice shall be paid to the Toronto Riichi Club PayPal account and is due on the date listed in the invoice. If your payment is not received by that date, you forfeit your spot to the next person on the waiting list. **Cash payments will not be accepted this year.**
 
 [tournaments@torontoriichi.club]: mailto:tournaments@torontoriichi.club
 
