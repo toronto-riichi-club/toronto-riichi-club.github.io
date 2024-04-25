@@ -74,7 +74,6 @@ Le formulaire d'inscription a été traduit en français avec l'assistance de Gr
 
 Refunds will only be issued in case of emergencies. If you have an emergency and need to withdraw from the tournament, please contact [tournaments@torontoriichi.club][] to request a refund.
 
-{::comment}
 <details style="margin-top: 1em;">
 
 <summary>
@@ -86,11 +85,24 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 
 | Name | Club/Region |
 |-|-|
+| Alexxa D. | Riichi Nomi NYC |
+| Ding | Toronto Riichi Club (TORI) |
+| Edwin M. | Ontario, Canada |
+| Harry H | Toronto Riichi Club (TORI) |
+| Hue C. | Toronto Riichi Club (TORI) |
+| Jersey Mike | Riichi Nomi NYC |
+| Leo Z. | Toronto Riichi Club (TORI) |
+| Luke M. | Hammergirl Anime Mahjong |
+| Mark T. | Toronto Riichi Club (TORI) |
+| Michael H. | Toronto Riichi Club (TORI) |
+| Neil C. | Riichi Nomi NYC |
+| Paul C. | Ottawa, Canada |
+| Toshihiro S. | Ottawa, Canada |
+| Vincent Z. | Toronto Riichi Club (TORI) |
 
 </div>
 
 </details>
-{:/comment}
 
 ### Food
 
