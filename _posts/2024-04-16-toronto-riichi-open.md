@@ -87,6 +87,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 |-|-|
 | Alexis Horizon | Toronto Riichi Club (TORI) |
 | Alexxa D. | Riichi Nomi NYC |
+| Alyssa T. | Toronto Riichi Club (TORI) |
 | Andre C. | Riichi Nomi NYC |
 | Andrew S. | Southeastern Michigan Riichi |
 | Calvin C. | Riichi Nomi NYC |
@@ -105,7 +106,8 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | *Jason Q* | *Riichi Nomi NYC* |
 | Jersey Mike | Riichi Nomi NYC |
 | *Jim Y.* | *Toronto Riichi Club (TORI)* |
-| *KaoriNF* | *Toronto Riichi Club (TORI)* |
+| *John C.* | *Toronto Riichi Club (TORI)* |
+| KaoriNF | Toronto Riichi Club (TORI) |
 | Kinyan | Seattle Riichi Mahjong Club |
 | Leo Z. | Toronto Riichi Club (TORI) |
 | Luke M. | Hammergirl Anime Mahjong |
@@ -119,7 +121,9 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Neil C. | Riichi Nomi NYC |
 | Paul C. | Toronto Riichi Club (TORI) |
 | Paul C.-R. | Ottawa, Canada |
-| *Rob C.* | *Toronto Riichi Club (TORI)* |
+| Philippe O. | Montreal Riichi Club |
+| Rob C. | Toronto Riichi Club (TORI) |
+| *Ryan N.* | *Toronto Riichi Club (TORI)* |
 | Sylvie B. | Snake Shack |
 | Toshihiro S. | Ottawa, Canada |
 | *Ty K.* | *RIT Nine Gates* |
@@ -128,6 +132,8 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | *Vinny T.* | *Riichi Nomi NYC* |
 | Wrath | Ontario, Canada |
 | Yvette W. | Toronto, Canada |
+| *abw* | *Toronto Riichi Club (TORI)* |
+| *yxzd03* | *Toronto Riichi Club (TORI)* |
 
 </div>
 
