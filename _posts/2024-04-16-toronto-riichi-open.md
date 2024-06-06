@@ -107,7 +107,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Jersey Mike | Riichi Nomi NYC |
 | *Jim Y.* | *Toronto Riichi Club (TORI)* |
 | *John C.* | *Toronto Riichi Club (TORI)* |
-| KaoriNF | Toronto Riichi Club (TORI) |
+| Kaori | Toronto Riichi Club (TORI) |
 | Kinyan | Seattle Riichi Mahjong Club |
 | Leo Z. | Toronto Riichi Club (TORI) |
 | Luke M. | Hammergirl Anime Mahjong |
@@ -133,7 +133,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Wrath | Ontario, Canada |
 | Yvette W. | Toronto, Canada |
 | *abw* | *Toronto Riichi Club (TORI)* |
-| *yxzd03* | *Toronto Riichi Club (TORI)* |
+| *Will W.* | *Toronto Riichi Club (TORI)* |
 
 </div>
 
