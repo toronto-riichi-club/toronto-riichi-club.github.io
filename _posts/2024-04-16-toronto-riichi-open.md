@@ -85,6 +85,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 
 | Name | Club/Region |
 |-|-|
+| *ABW* | *Toronto Riichi Club (TORI)* |
 | Alexis Horizon | Toronto Riichi Club (TORI) |
 | Alexxa D. | Riichi Nomi NYC |
 | Alyssa T. | Toronto Riichi Club (TORI) |
@@ -130,10 +131,9 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Vincent Shao | Toronto Riichi Club (TORI) |
 | Vincent Z. | Toronto Riichi Club (TORI) |
 | *Vinny T.* | *Riichi Nomi NYC* |
+| *Will W.* | *Toronto Riichi Club (TORI)* |
 | Wrath | Ontario, Canada |
 | Yvette W. | Toronto, Canada |
-| *abw* | *Toronto Riichi Club (TORI)* |
-| *Will W.* | *Toronto Riichi Club (TORI)* |
 
 </div>
 
