@@ -85,52 +85,60 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 
 | Name | Club/Region |
 |-|-|
-| *ABW* | *Toronto Riichi Club (TORI)* |
+| ABW | Toronto Riichi Club (TORI) |
+| Alexander A. | Toronto Riichi Club (TORI) |
 | Alexis Horizon | Toronto Riichi Club (TORI) |
 | Alexxa D. | Riichi Nomi NYC |
 | Alyssa T. | Toronto Riichi Club (TORI) |
-| Andre C. | Riichi Nomi NYC |
 | Andrew S. | Southeastern Michigan Riichi |
 | Calvin C. | Riichi Nomi NYC |
 | Catherine T. | Toronto Riichi Club (TORI) |
 | Cole T. | Hammergirl Anime Mahjong |
-| *Dennis K.* | *Toronto Riichi Club (TORI)* |
+| Dennis K. | Toronto Riichi Club (TORI) |
 | Ding | Toronto Riichi Club (TORI) |
 | Edwin M. | Ontario, Canada |
 | Eric Z. | Toronto Riichi Club (TORI) |
 | Estey G. | Hammergirl Anime Mahjong |
 | Frank W. | Toronto Riichi Club (TORI) |
+| Grant M. | Montreal Riichi Club |
 | *Harrison C.* | *Toronto Riichi Club (TORI)* |
 | Harry H | Toronto Riichi Club (TORI) |
 | Henry V. | Toronto Riichi Club (TORI) |
 | Hue C. | Ontario, Canada |
-| *Jason Q* | *Riichi Nomi NYC* |
+| Jason Q | Riichi Nomi NYC |
 | Jersey Mike | Riichi Nomi NYC |
-| *Jim Y.* | *Toronto Riichi Club (TORI)* |
-| *John C.* | *Toronto Riichi Club (TORI)* |
+| Jim Y. | Toronto Riichi Club (TORI) |
+| John C. | Toronto Riichi Club (TORI) |
+| Justin G. | Ontario, Canada |
 | Kaori | Toronto Riichi Club (TORI) |
+| King Penguin | Toronto Riichi Club (TORI) |
 | Kinyan | Seattle Riichi Mahjong Club |
 | Leo Z. | Toronto Riichi Club (TORI) |
 | Luke M. | Hammergirl Anime Mahjong |
+| MS L. | Pacific Mahjong League (PML) |
 | Marc-Laurent F. | Montreal Riichi Club |
 | Mark T. | Toronto Riichi Club (TORI) |
 | Max S. | Greater Cincinnati Riichi Mahjong |
 | Melvin P. | Riichi Nomi NYC |
 | Michael H. | Toronto Riichi Club (TORI) |
-| *Michael M.* | *Toronto Riichi Club (TORI)* |
+| Michael M. | Toronto Riichi Club (TORI) |
 | *Miguel C.* | *Toronto Riichi Club (TORI)* |
 | Neil C. | Riichi Nomi NYC |
 | Paul C. | Toronto Riichi Club (TORI) |
 | Paul C.-R. | Ottawa, Canada |
 | Philippe O. | Montreal Riichi Club |
+| *Pio Y.* | *Riichi Nomi NYC* |
+| Pokey | Toronto Riichi Club (TORI) |
 | Rob C. | Toronto Riichi Club (TORI) |
 | *Ryan N.* | *Toronto Riichi Club (TORI)* |
+| *Ruitao Z.* | *Toronto Riichi Club (TORI)* |
 | Sylvie B. | Snake Shack |
 | Toshihiro S. | Ottawa, Canada |
-| *Ty K.* | *RIT Nine Gates* |
+| Ty K. | RIT Nine Gates |
 | Vincent Shao | Toronto Riichi Club (TORI) |
 | Vincent Z. | Toronto Riichi Club (TORI) |
 | *Vinny T.* | *Riichi Nomi NYC* |
+| Vivian | Toronto Riichi Club (TORI) |
 | *Will W.* | *Toronto Riichi Club (TORI)* |
 | Wrath | Ontario, Canada |
 | Yvette W. | Toronto, Canada |
