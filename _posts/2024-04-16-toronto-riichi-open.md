@@ -91,7 +91,6 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Alexxa D. | Riichi Nomi NYC |
 | Alyssa T. | Toronto Riichi Club (TORI) |
 | Andrew S. | Southeastern Michigan Riichi |
-| Calvin C. | Riichi Nomi NYC |
 | Catherine T. | Toronto Riichi Club (TORI) |
 | Cole T. | Hammergirl Anime Mahjong |
 | Dennis K. | Toronto Riichi Club (TORI) |
@@ -101,7 +100,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Estey G. | Hammergirl Anime Mahjong |
 | Frank W. | Toronto Riichi Club (TORI) |
 | Grant M. | Montreal Riichi Club |
-| *Harrison C.* | *Toronto Riichi Club (TORI)* |
+| Harrison C. | Toronto Riichi Club (TORI) |
 | Harry H | Toronto Riichi Club (TORI) |
 | Henry V. | Toronto Riichi Club (TORI) |
 | Hue C. | Ontario, Canada |
@@ -114,7 +113,9 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | King Penguin | Toronto Riichi Club (TORI) |
 | Kinyan | Seattle Riichi Mahjong Club |
 | Leo Z. | Toronto Riichi Club (TORI) |
+| Loïc R. | Montreal Riichi Club |
 | Luke M. | Hammergirl Anime Mahjong |
+| Lynette D. | Toronto Riichi Club (TORI) |
 | MS L. | Pacific Mahjong League (PML) |
 | Marc-Laurent F. | Montreal Riichi Club |
 | Mark T. | Toronto Riichi Club (TORI) |
@@ -127,10 +128,10 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Paul C. | Toronto Riichi Club (TORI) |
 | Paul C.-R. | Ottawa, Canada |
 | Philippe O. | Montreal Riichi Club |
-| *Pio Y.* | *Riichi Nomi NYC* |
+| *Pio Y* | *Riichi Nomi NYC* |
 | Pokey | Toronto Riichi Club (TORI) |
 | Rob C. | Toronto Riichi Club (TORI) |
-| *Ryan N.* | *Toronto Riichi Club (TORI)* |
+| Ryan N. | Toronto Riichi Club (TORI) |
 | *Ruitao Z.* | *Toronto Riichi Club (TORI)* |
 | Sylvie B. | Snake Shack |
 | Toshihiro S. | Ottawa, Canada |
@@ -142,6 +143,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | *Will W.* | *Toronto Riichi Club (TORI)* |
 | Wrath | Ontario, Canada |
 | Yvette W. | Toronto, Canada |
+| *tusooa* | *Toronto Riichi Club (TORI)* |
 
 </div>
 
