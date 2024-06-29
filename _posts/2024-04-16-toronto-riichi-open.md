@@ -110,7 +110,6 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | John C. | Toronto Riichi Club (TORI) |
 | Justin G. | Ontario, Canada |
 | Kaori | Toronto Riichi Club (TORI) |
-| King Penguin | Toronto Riichi Club (TORI) |
 | Kinyan | Seattle Riichi Mahjong Club |
 | Leo Z. | Toronto Riichi Club (TORI) |
 | Loïc R. | Montreal Riichi Club |
@@ -133,6 +132,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Rob C. | Toronto Riichi Club (TORI) |
 | Ryan N. | Toronto Riichi Club (TORI) |
 | *Ruitao Z.* | *Toronto Riichi Club (TORI)* |
+| Samuel | Toronto Riichi Club (TORI) |
 | Sylvie B. | Snake Shack |
 | Toshihiro S. | Ottawa, Canada |
 | Ty K. | RIT Nine Gates |
