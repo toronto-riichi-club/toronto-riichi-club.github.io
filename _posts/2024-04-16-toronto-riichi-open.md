@@ -77,7 +77,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details style="margin-top: 1em;">
 
 <summary>
-#### Participants
+#### Participants (61 registered)
 </summary>
 
 <div class="table-container">
@@ -91,6 +91,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Alexxa D. | Riichi Nomi NYC |
 | Alyssa T. | Toronto Riichi Club (TORI) |
 | Andrew S. | Southeastern Michigan Riichi |
+| Ariel Li | Toronto Riichi Club (TORI) |
 | Catherine T. | Toronto Riichi Club (TORI) |
 | Cole T. | Hammergirl Anime Mahjong |
 | Dennis K. | Toronto Riichi Club (TORI) |
@@ -99,6 +100,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Eric Z. | Toronto Riichi Club (TORI) |
 | Estey G. | Hammergirl Anime Mahjong |
 | Frank W. | Toronto Riichi Club (TORI) |
+| GODZ | Toronto Riichi Club (TORI) |
 | Grant M. | Montreal Riichi Club |
 | Harrison C. | Toronto Riichi Club (TORI) |
 | Harry H | Toronto Riichi Club (TORI) |
@@ -108,8 +110,10 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Jersey Mike | Riichi Nomi NYC |
 | Jim Y. | Toronto Riichi Club (TORI) |
 | John C. | Toronto Riichi Club (TORI) |
+| Joseph M. | Toronto Riichi Club (TORI) |
 | Justin G. | Ontario, Canada |
 | Kaori | Toronto Riichi Club (TORI) |
+| *Kevin L. | Toronto Riichi Club (TORI)* |
 | Kinyan | Seattle Riichi Mahjong Club |
 | Leo Z. | Toronto Riichi Club (TORI) |
 | Loïc R. | Montreal Riichi Club |
@@ -127,7 +131,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Paul C. | Toronto Riichi Club (TORI) |
 | Paul C.-R. | Ottawa, Canada |
 | Philippe O. | Montreal Riichi Club |
-| *Pio Y* | *Riichi Nomi NYC* |
+| Pio Y | Riichi Nomi NYC |
 | Pokey | Toronto Riichi Club (TORI) |
 | Rob C. | Toronto Riichi Club (TORI) |
 | Ryan N. | Toronto Riichi Club (TORI) |
@@ -138,12 +142,10 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Ty K. | RIT Nine Gates |
 | Vincent Shao | Toronto Riichi Club (TORI) |
 | Vincent Z. | Toronto Riichi Club (TORI) |
-| *Vinny T.* | *Riichi Nomi NYC* |
 | Vivian | Toronto Riichi Club (TORI) |
-| *Will W.* | *Toronto Riichi Club (TORI)* |
 | Wrath | Ontario, Canada |
 | Yvette W. | Toronto, Canada |
-| *tusooa* | *Toronto Riichi Club (TORI)* |
+| tusooa | Toronto Riichi Club (TORI) |
 
 </div>
 
