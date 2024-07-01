@@ -113,7 +113,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Joseph M. | Toronto Riichi Club (TORI) |
 | Justin G. | Ontario, Canada |
 | Kaori | Toronto Riichi Club (TORI) |
-| *Kevin L. | Toronto Riichi Club (TORI)* |
+| *Kevin L.* | *Toronto Riichi Club (TORI)* |
 | Kinyan | Seattle Riichi Mahjong Club |
 | Leo Z. | Toronto Riichi Club (TORI) |
 | Loïc R. | Montreal Riichi Club |
