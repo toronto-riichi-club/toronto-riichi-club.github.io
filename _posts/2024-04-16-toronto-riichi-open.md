@@ -100,7 +100,6 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Eric Z. | Toronto Riichi Club (TORI) |
 | Estey G. | Hammergirl Anime Mahjong |
 | Frank W. | Toronto Riichi Club (TORI) |
-| GODZ | Toronto Riichi Club (TORI) |
 | Grant M. | Montreal Riichi Club |
 | Harrison C. | Toronto Riichi Club (TORI) |
 | Harry H | Toronto Riichi Club (TORI) |
@@ -128,6 +127,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Michael M. | Toronto Riichi Club (TORI) |
 | *Miguel C.* | *Toronto Riichi Club (TORI)* |
 | Neil C. | Riichi Nomi NYC |
+| Nick | Toronto Riichi Club (TORI) |
 | Paul C. | Toronto Riichi Club (TORI) |
 | Paul C.-R. | Ottawa, Canada |
 | Philippe O. | Montreal Riichi Club |
