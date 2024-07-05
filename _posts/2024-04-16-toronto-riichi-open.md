@@ -142,7 +142,6 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Ty K. | RIT Nine Gates |
 | Vincent Shao | Toronto Riichi Club (TORI) |
 | Vincent Z. | Toronto Riichi Club (TORI) |
-| Vivian | Toronto Riichi Club (TORI) |
 | Wrath | Ontario, Canada |
 | Yvette W. | Toronto, Canada |
 | tusooa | Toronto Riichi Club (TORI) |
@@ -197,7 +196,7 @@ All times are in EDT.
 
 | Start time | Event
 |------------|--------------------------
-| **09:00**  | Registration and opening
+| **08:30**  | Registration and opening
 | **09:30**  | Hanchan 1
 | **11:00**  | Break
 | **11:30**  | Hanchan 2
@@ -215,7 +214,7 @@ All times are in EDT.
 
 | Start time | Event
 |------------|--------------------------
-| **09:00**  | Reorganization
+| **08:30**  | Reorganization
 | **09:30**  | Hanchan 1
 | **11:00**  | Break
 | **11:30**  | Hanchan 2
