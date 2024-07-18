@@ -77,7 +77,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details style="margin-top: 1em;">
 
 <summary>
-#### Participants (61 registered)
+#### Participants (60 registered)
 </summary>
 
 <div class="table-container">
@@ -92,7 +92,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Alyssa T. | Toronto Riichi Club (TORI) |
 | Andrew S. | Southeastern Michigan Riichi |
 | Ariel Li | Toronto Riichi Club (TORI) |
-| *Bobby* | *Hong Kong, China* |
+| Bobby | Hong Kong, China |
 | Catherine T. | Toronto Riichi Club (TORI) |
 | Cole T. | Hammergirl Anime Mahjong |
 | Dennis K. | Toronto Riichi Club (TORI) |
@@ -107,7 +107,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Henry V. | Toronto Riichi Club (TORI) |
 | Hue C. | Ontario, Canada |
 | Jason Q | Riichi Nomi NYC |
-| *Jeffrey Y.* | *Toronto Riichi Club (TORI)* |
+| Jeffrey Y. | Toronto Riichi Club (TORI) |
 | Jim Y. | Toronto Riichi Club (TORI) |
 | John C. | Toronto Riichi Club (TORI) |
 | Joseph M. | Toronto Riichi Club (TORI) |
@@ -126,8 +126,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Melvin P. | Riichi Nomi NYC |
 | Michael H. | Toronto Riichi Club (TORI) |
 | Michael M. | Toronto Riichi Club (TORI) |
-| *Miguel C.* | *Toronto Riichi Club (TORI)* |
-| Neil C. | Riichi Nomi NYC |
+| Miguel C. | Toronto Riichi Club (TORI) |
 | Nick | Toronto Riichi Club (TORI) |
 | Paul C. | Toronto Riichi Club (TORI) |
 | Paul C.-R. | Ottawa, Canada |
