@@ -77,7 +77,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details style="margin-top: 1em;">
 
 <summary>
-#### Participants (60 registered)
+#### Participants (61 registered)
 </summary>
 
 <div class="table-container">
@@ -117,6 +117,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Kinyan | Seattle Riichi Mahjong Club |
 | Leo Z. | Toronto Riichi Club (TORI) |
 | Loïc R. | Montreal Riichi Club |
+| Lorenzo D. | Montreal Riichi Club |
 | Luke M. | Hammergirl Anime Mahjong |
 | Lynette D. | Toronto Riichi Club (TORI) |
 | MS L. | Pacific Mahjong League (PML) |
@@ -135,10 +136,10 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Pokey | Toronto Riichi Club (TORI) |
 | Rob C. | Toronto Riichi Club (TORI) |
 | Ryan N. | Toronto Riichi Club (TORI) |
-| *Ruitao Z.* | *Toronto Riichi Club (TORI)* |
 | Samuel | Toronto Riichi Club (TORI) |
 | Sylvie B. | Snake Shack |
 | Toshihiro S. | Ottawa, Canada |
+| Travis S. | Toronto, Canada |
 | Ty K. | RIT Nine Gates |
 | Vincent Shao | Toronto Riichi Club (TORI) |
 | Vincent Z. | Toronto Riichi Club (TORI) |
