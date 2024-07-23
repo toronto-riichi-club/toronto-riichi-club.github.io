@@ -74,7 +74,7 @@ Le formulaire d'inscription a été traduit en français avec l'assistance de Gr
 
 Refunds will only be issued in case of emergencies. If you have an emergency and need to withdraw from the tournament, please contact [tournaments@torontoriichi.club][] to request a refund.
 
-<details style="margin-top: 1em;">
+<details id="participants-details" style="margin-top: 1em;">
 
 <summary>
 #### Participants (60 registered) {#participants}
@@ -149,6 +149,24 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 </div>
 
 </details>
+
+<script>
+{
+
+function openParticipantsWhenLinked(url) {
+  if (new URL(url).hash === '#participants') {
+    document.getElementById('participants-details').open = true;
+  }
+}
+
+window.addEventListener('hashchange', (event) => {
+  openParticipantsWhenLinked(event.newURL);
+});
+
+openParticipantsWhenLinked(window.location.href);
+
+}
+</script>
 
 ### Food
 
