@@ -77,7 +77,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details style="margin-top: 1em;">
 
 <summary>
-#### Participants (60 registered)
+#### Participants (60 registered) {#participants}
 </summary>
 
 <div class="table-container">
