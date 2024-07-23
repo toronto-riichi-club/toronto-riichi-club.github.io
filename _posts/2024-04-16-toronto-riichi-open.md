@@ -77,7 +77,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details style="margin-top: 1em;">
 
 <summary>
-#### Participants (61 registered)
+#### Participants (60 registered)
 </summary>
 
 <div class="table-container">
@@ -129,7 +129,6 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Michael M. | Toronto Riichi Club (TORI) |
 | Miguel C. | Toronto Riichi Club (TORI) |
 | Nick | Toronto Riichi Club (TORI) |
-| Paul C. | Toronto Riichi Club (TORI) |
 | Paul C.-R. | Ottawa, Canada |
 | Philippe O. | Montreal Riichi Club |
 | Pio Y | Riichi Nomi NYC |
