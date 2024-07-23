@@ -7,6 +7,8 @@ tags:
 title: Toronto Riichi Open 2024
 description: The Toronto Riichi Club is excited to announce the second Toronto Riichi Open (TORI Open). We hope to see you there!
 feature_image: "/assets/logos/tro.svg"
+redirect_from:
+- /tori-open-2024
 ---
 
 {::options parse_block_html="true" /}
