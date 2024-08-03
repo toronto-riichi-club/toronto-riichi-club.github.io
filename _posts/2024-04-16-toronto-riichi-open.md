@@ -44,8 +44,8 @@ ins {
 
 The TORI Open is a two-day tournament.
 
-- Day 1: Saturday, August 3, 2024. 9:00 am – 9:00 pm
-- Day 2: Sunday, August 4, 2024. 9:00 am – 9:00 pm
+- Day 1: Saturday, August 3, 2024. 8:30 am – 9:00 pm
+- Day 2: Sunday, August 4, 2024. 8:30 am – 9:00 pm
 
 ### Location
 
@@ -247,13 +247,13 @@ All times are in EDT.
 | Start time | Event
 |------------|--------------------------
 | **08:30**  | Reorganization
-| **09:30**  | Hanchan 1
+| **09:30**  | Hanchan 5
 | **11:00**  | Break
-| **11:30**  | Hanchan 2
+| **11:30**  | Hanchan 6
 | **13:00**  | Lunch
-| **15:00**  | Hanchan 3
+| **15:00**  | Hanchan 7
 | **16:30**  | Break
-| **17:00**  | Hanchan 4
+| **17:00**  | Hanchan 8
 | **18:30**  | Break
 | **19:00**  | Awards ceremony
 | **19:30**  | Free play
