@@ -17,8 +17,20 @@ The Toronto Riichi Club is excited to announce the second Toronto Riichi Open (T
 
 All those interested should join the [TORI Open Discord server][] or send an email to [toronto-riichi-open+subscribe@googlegroups.com][] to subscribe to the mailing list.
 
+<style>
+ins {
+  text-decoration: none;
+  background-color: yellow;
+  color: black;
+}
+</style>
+
+<ins>**Update 2024-08-03**</ins>: Check out the [seatings and scores][]!
+
 [TORI Open Discord server]: https://discord.gg/XrhPZRwPMZ
 [toronto-riichi-open+subscribe@googlegroups.com]: mailto:toronto-riichi-open@googlegroups.com
+
+[seatings and scores]: {% post_url 2024-08-03-toronto-riichi-open-results %}
 
 <!-- more -->
 
