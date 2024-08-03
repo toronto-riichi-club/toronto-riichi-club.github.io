@@ -63,6 +63,10 @@ Final standings will also be posted here after the tournament is complete. Keep 
 
 <!-- more -->
 
+## Standings
+
+<iframe class="results-sheet-embed" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSwz8tpBEchcgO91UxUbVDzUdaWUhoap-Q95-X-_n8x6gD1SL0g8TaucZkS0nOD2Tjip7m53Dd7Be_n/pubhtml?widget=true&amp;headers=false"></iframe>
+
 ## Seatings
 
 <div class="seating-table-container">
