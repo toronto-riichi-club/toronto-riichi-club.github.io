@@ -236,54 +236,62 @@ Seatings for Hanchan 7 and 8 will be calculated on Day 2.
 #### Second half
 </summary>
 
-<div class="seating-table-container">
+<div class="seating-table-container finals">
 
 | Name | H7 | H8 |
 |-|-:|-:|
-| Alexander A. | 11 | 2 |
-| Alexxa D. | 10 | 11 |
-| Andrew S. | 3 | 8 |
-| Catherine T. | 5 | 3 |
-| Ding | 11 | 11 |
-| Edwin M. | 9 | 5 |
-| Estey G. | 5 | 8 |
-| Frank W. | 1 | 4 |
-| Grant M. | 10 | 3 |
-| Harrison C. | 10 | 1 |
-| Harry H | 9 | 1 |
-| Henry V. | 2 | 10 |
-| Hue C. | 7 | 10 |
-| Jason Q | 7 | 10 |
-| Jeffrey Y. | 10 | 4 |
-| Jim Y. | 6 | 1 |
-| John C. | 2 | 4 |
-| Joseph M. | 5 | 2 |
-| Justin G. | 6 | 8 |
-| Kaori | 4 | 2 |
-| Kevin L. | 7 | 1 |
-| Kinyan | 1 | 9 |
-| Leo Z. | 2 | 9 |
-| Loïc R. | 3 | 2 |
-| Lorenzo D. | 3 | 11 |
-| Lynette D. | 8 | 6 |
-| Mark T. | 4 | 8 |
-| Max S. | 3 | 6 |
-| Melvin P. | 8 | 3 |
-| Michael M. | 6 | 10 |
-| Miguel C. | 9 | 4 |
-| MS L. | 8 | 9 |
-| Paul C.-R. | 1 | 7 |
-| Philippe O. | 7 | 5 |
-| Rob C. | 4 | 9 |
-| Ryan N. | 4 | 7 |
-| Samuel | 11 | 5 |
-| Toshihiro S. | 9 | 7 |
-| Travis S. | 6 | 5 |
-| tusooa | 11 | 11 |
-| Vincent Shao | 1 | 6 |
-| Vincent Z. | 8 | 6 |
-| Yvette W. | 2 | 3 |
-| _Sub 1_ | 5 | 7 |
+| ABW | 1 | 1 |
+| Alexander A. | 13 | 4 |
+| Alexxa D. | 12 | 13 |
+| Andrew S. | 5 | 10 |
+| Catherine T. | 7 | 5 |
+| Dennis K. | 2 | 2 |
+| Ding | 13 | 13 |
+| Edwin M. | 11 | 7 |
+| Eric Z. | 2 | 1 |
+| Estey G. | 7 | 10 |
+| Frank W. | 3 | 6 |
+| Grant M. | 12 | 5 |
+| Harrison C. | 12 | 3 |
+| Harry H | 11 | 3 |
+| Henry V. | 4 | 12 |
+| Hue C. | 9 | 12 |
+| Jason Q | 9 | 12 |
+| Jeffrey Y. | 12 | 6 |
+| Jim Y. | 8 | 3 |
+| John C. | 4 | 6 |
+| Joseph M. | 7 | 4 |
+| Justin G. | 8 | 10 |
+| Kaori | 6 | 4 |
+| Kevin L. | 9 | 3 |
+| Kinyan | 3 | 11 |
+| Leo Z. | 4 | 11 |
+| Lorenzo D. | 5 | 13 |
+| Loïc R. | 5 | 4 |
+| Lynette D. | 10 | 8 |
+| Mark T. | 6 | 10 |
+| Max S. | 5 | 8 |
+| Melvin P. | 10 | 5 |
+| Michael H. | 2 | 1 |
+| Michael M. | 8 | 12 |
+| Miguel C. | 11 | 6 |
+| MS L. | 10 | 11 |
+| Paul C.-R. | 3 | 9 |
+| Philippe O. | 9 | 7 |
+| Pio Y | 1 | 1 |
+| Pokey | 2 | 2 |
+| Rob C. | 6 | 11 |
+| Ryan N. | 6 | 9 |
+| Samuel | 13 | 7 |
+| Sylvie B. | 1 | 2 |
+| Toshihiro S. | 11 | 9 |
+| Travis S. | 8 | 7 |
+| tusooa | 13 | 13 |
+| Vincent Shao | 3 | 8 |
+| Vincent Z. | 10 | 8 |
+| Wrath | 1 | 2 |
+| Yvette W. | 4 | 5 |
+| _Sub 1_ | 7 | 9 |
 
 </div>
 </details>
