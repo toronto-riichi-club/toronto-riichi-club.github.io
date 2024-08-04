@@ -68,6 +68,12 @@ Final standings will also be posted here after the tournament is complete. Keep 
 
 <!-- more -->
 
+### Table of Contents
+{:.no_toc}
+
+* Table of Contents
+{:toc}
+
 ## Standings
 
 The running standings are presented below as they come in. Refresh the page to get the latest data.
