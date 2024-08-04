@@ -162,7 +162,10 @@ Seatings for Hanchan 7 and 8 will be calculated on Day 2.
 
 ### Day 2
 
+<details>
+<summary>
 #### First half
+</summary>
 
 <div class="seating-table-container">
 
@@ -226,10 +229,64 @@ Seatings for Hanchan 7 and 8 will be calculated on Day 2.
 | Yvette W. | 5 | 5 |
 
 </div>
+</details>
 
+<details open>
+<summary>
 #### Second half
+</summary>
 
-To be calculated after Hanchan 6.
+<div class="seating-table-container">
+
+| Name | H7 | H8 |
+|-|-:|-:|
+| Alexander A. | 11 | 2 |
+| Alexxa D. | 10 | 11 |
+| Andrew S. | 3 | 8 |
+| Catherine T. | 5 | 3 |
+| Ding | 11 | 11 |
+| Edwin M. | 9 | 5 |
+| Estey G. | 5 | 8 |
+| Frank W. | 1 | 4 |
+| Grant M. | 10 | 3 |
+| Harrison C. | 10 | 1 |
+| Harry H | 9 | 1 |
+| Henry V. | 2 | 10 |
+| Hue C. | 7 | 10 |
+| Jason Q | 7 | 10 |
+| Jeffrey Y. | 10 | 4 |
+| Jim Y. | 6 | 1 |
+| John C. | 2 | 4 |
+| Joseph M. | 5 | 2 |
+| Justin G. | 6 | 8 |
+| Kaori | 4 | 2 |
+| Kevin L. | 7 | 1 |
+| Kinyan | 1 | 9 |
+| Leo Z. | 2 | 9 |
+| Loïc R. | 3 | 2 |
+| Lorenzo D. | 3 | 11 |
+| Lynette D. | 8 | 6 |
+| Mark T. | 4 | 8 |
+| Max S. | 3 | 6 |
+| Melvin P. | 8 | 3 |
+| Michael M. | 6 | 10 |
+| Miguel C. | 9 | 4 |
+| MS L. | 8 | 9 |
+| Paul C.-R. | 1 | 7 |
+| Philippe O. | 7 | 5 |
+| Rob C. | 4 | 9 |
+| Ryan N. | 4 | 7 |
+| Samuel | 11 | 5 |
+| Toshihiro S. | 9 | 7 |
+| Travis S. | 6 | 5 |
+| tusooa | 11 | 11 |
+| Vincent Shao | 1 | 6 |
+| Vincent Z. | 8 | 6 |
+| Yvette W. | 2 | 3 |
+| _Sub 1_ | 5 | 7 |
+
+</div>
+</details>
 
 <style>
   summary {
