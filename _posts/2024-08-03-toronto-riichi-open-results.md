@@ -29,7 +29,8 @@ feature_image: "/assets/logos/tro.svg"
   margin: auto;
 }
 .score-table-container thead > tr:last-child > *,
-.score-table-container tbody tr:nth-child(16n) td,
+.score-table-container tbody tr:nth-child(8) td,
+.score-table-container tbody tr:nth-child(51) td,
 .seating-table-container thead > tr:last-child > * {
   border-bottom-width: 1px;
   border-bottom-style: solid;
@@ -42,6 +43,7 @@ feature_image: "/assets/logos/tro.svg"
 }
 
 .score-table-container th,
+.score-table-container td,
 .seating-table-container td {
   padding: 0.5em;
 }
@@ -58,11 +60,16 @@ figcaption {
   font-size: smaller;
   text-align: center;
 }
+ins {
+  text-decoration: none;
+  background-color: yellow;
+  color: black;
+}
 </style>
 
-The [tournament][Toronto Riichi Open 2024] is on! During the tournament, these results will be updated after each hanchan. Refresh to get the latest scores and rankings.
+<ins>**Update 2023-08-29**</ins>: The tournament is now finished! The final results are posted below.
 
-Final standings will also be posted here after the tournament is complete. Keep your eyes peeled!
+The results of the [Toronto Riichi Open 2024][] are now in!
 
 [Toronto Riichi Open 2024]: {% post_url 2024-04-16-toronto-riichi-open %}
 
@@ -76,8 +83,81 @@ Final standings will also be posted here after the tournament is complete. Keep 
 
 ## Standings
 
-The running standings are presented below as they come in. Refresh the page to get the latest data.
-Alternatively, view the [full-featured spreadsheet](https://docs.google.com/spreadsheets/d/1hJJbAYkca3g-7UNzaICkGLS_p1uiQuEHXDvZfU8DaDA/edit?usp=sharing).
+### Final standings
+
+After 6 hanchan, the top 8 players had their scores cut in half and were put in a separate division.
+The rest of the players kept their scores and were put in another division.
+
+<div class="score-table-container">
+
+| Rank | Name | Club | Score |
+|-:|-|-|-:|
+| 1 | Sylvie B. | Snake Shack | 104.7 |
+| 2 | Michael H. | Toronto Riichi Club (TORI) | 87.5 |
+| 3 | Pio Y. | Riichi Nomi NYC | 81.2 |
+| 4 | Dennis K. | Toronto Riichi Club (TORI) | 60.2 |
+| 5 | Pokey | Toronto Riichi Club (TORI) | 50.4 |
+| 6 | Eric Z. | Toronto Riichi Club (TORI) | 3.6 |
+| 7 | Wrath | Ontario, Canada | -2.6 |
+| 8 | ABW | Toronto Riichi Club (TORI) | -6.2 |
+| 9 | Loïc R. | Montreal Riichi Club | 112.6 |
+| 10 | Jim Y. | Toronto Riichi Club (TORI) | 109.2 |
+| 11 | Harry H | Toronto Riichi Club (TORI) | 97.5 |
+| 12 | Max S. | Greater Cincinnati Riichi Mahjong | 93.1 |
+| 13 | Rob C. | Toronto Riichi Club (TORI) | 87.7 |
+| 14 | Jeffrey Y. | Toronto Riichi Club (TORI) | 84 |
+| 15 | Leo Z. | Toronto Riichi Club (TORI) | 70.5 |
+| 16 | Miguel C. | Toronto Riichi Club (TORI) | 57.7 |
+| 17 | Ding | Toronto Riichi Club (TORI) | 52.9 |
+| 18 | Vincent Z. | Ottawa, Canada | 41.6 |
+| 19 | Grant M. | Montreal Riichi Club | 37.8 |
+| 20 | Estey G. | Hammergirl Anime Mahjong | 26.1 |
+| 21 | Vincent Shao | Toronto Riichi Club (TORI) | 23.3 |
+| 22 | Mark T. | Toronto Riichi Club (TORI) | 21.7 |
+| 23 | Toshihiro S. | Ottawa, Canada | 14.9 |
+| 24 | Michael M. | Toronto Riichi Club (TORI) | 14.1 |
+| 25 | John C. | Toronto Riichi Club (TORI) | 4.1 |
+| 26 | Ryan N. | Toronto Riichi Club (TORI) | 2.8 |
+| 27 | Jason Q | Riichi Nomi NYC | 0.1 |
+| 28 | Samuel | Toronto Riichi Club (TORI) | -2.7 |
+| 29 | Harrison C. | Toronto Riichi Club (TORI) | -3.4 |
+| 30 | tusooa | Toronto Riichi Club (TORI) | -10.3 |
+| 31 | Kinyan | Seattle Riichi Mahjong Club | -13.1 |
+| 32 | Alexxa D. | Riichi Nomi NYC | -15.9 |
+| 33 | Justin G. | Ontario, Canada | -21.4 |
+| 34 | Edwin M. | Ontario, Canada | -22.1 |
+| 35 | Kevin L. | Toronto Riichi Club (TORI) | -44 |
+| 36 | Henry V. | Toronto Riichi Club (TORI) | -46.7 |
+| 37 | Alexander A. | Toronto Riichi Club (TORI) | -50.8 |
+| 38 | Lynette D. | Toronto Riichi Club (TORI) | -59.5 |
+| 39 | Lorenzo D. | Montreal Riichi Club | -61.9 |
+| 40 | Andrew S. | Southeastern Michigan Riichi | -72.7 |
+| 41 | Paul C.-R. | Ottawa, Canada | -83.9 |
+| 42 | Melvin P. | Riichi Nomi NYC | -88.4 |
+| 43 | Yvette W. | Toronto, Canada | -93.1 |
+| 44 | Hue C. | Ontario, Canada | -101.4 |
+| 45 | Kaori | Toronto Riichi Club (TORI) | -109.1 |
+| 46 | Joseph M. | Toronto Riichi Club (TORI) | -112.3 |
+| 47 | MS L. | Pacific Mahjong League (PML) | -127.7 |
+| 48 | Catherine T. | Toronto Riichi Club (TORI) | -144.2 |
+| 49 | Philippe O. | Montreal Riichi Club | -159 |
+| 50 | Frank W. | Toronto Riichi Club (TORI) | -159.8 |
+| 51 | Travis S. | Toronto, Canada | -168 |
+|  | _Sub 1_ | | (87.3) |
+|  | _Sub 2_ | | DNF |
+|  | Luke M. | Hammergirl Anime Mahjong | WD |
+|  | Ariel Li | Toronto Riichi Club (TORI) | WD |
+|  | Cole T. | Hammergirl Anime Mahjong | WD |
+|  | Alyssa T. | Toronto Riichi Club (TORI) | WD |
+|  | Bobby | Hong Kong, China | WD |
+|  | Nick | Toronto Riichi Club (TORI) | WD |
+|  | Marc-Laurent F. | Montreal Riichi Club | DQ |
+
+</div>
+
+### Full results
+
+The full results are presented below. Alternatively, view the [full-featured spreadsheet](https://docs.google.com/spreadsheets/d/1hJJbAYkca3g-7UNzaICkGLS_p1uiQuEHXDvZfU8DaDA/edit?usp=sharing).
 
 <iframe class="results-sheet-embed" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSwz8tpBEchcgO91UxUbVDzUdaWUhoap-Q95-X-_n8x6gD1SL0g8TaucZkS0nOD2Tjip7m53Dd7Be_n/pubhtml?widget=true&amp;headers=false"></iframe>
 
@@ -231,7 +311,7 @@ Seatings for Hanchan 7 and 8 will be calculated on Day 2.
 </div>
 </details>
 
-<details open>
+<details>
 <summary>
 #### Second half
 </summary>

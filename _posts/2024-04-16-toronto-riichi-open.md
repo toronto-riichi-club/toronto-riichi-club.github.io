@@ -25,12 +25,12 @@ ins {
 }
 </style>
 
-<ins>**Update 2024-08-03**</ins>: Check out the [seatings and scores][]!
+<ins>**Update 2024-08-03**</ins>: Check out the [seatings and standings][]!
 
 [TORI Open Discord server]: https://discord.gg/XrhPZRwPMZ
 [toronto-riichi-open+subscribe@googlegroups.com]: mailto:toronto-riichi-open@googlegroups.com
 
-[seatings and scores]: {% post_url 2024-08-03-toronto-riichi-open-results %}
+[seatings and standings]: {% post_url 2024-08-03-toronto-riichi-open-results %}
 
 <!-- more -->
 
