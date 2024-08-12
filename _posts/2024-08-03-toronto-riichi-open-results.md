@@ -161,6 +161,20 @@ The full results are presented below. Alternatively, view the [full-featured spr
 
 <iframe class="results-sheet-embed" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSwz8tpBEchcgO91UxUbVDzUdaWUhoap-Q95-X-_n8x6gD1SL0g8TaucZkS0nOD2Tjip7m53Dd7Be_n/pubhtml?widget=true&amp;headers=false"></iframe>
 
+* * *
+
+Thank you to all participants, staff and substitutes for making this tournament a success. Thanks as well to Jenn and Gemma from the WRC for sponsoring some of the prizes. See you all next year!
+
+<figure id="top-eight">
+![Group photo featuring the top eight of the Toronto Riichi Open 2024  showing off their medals and trophies.](/assets/tro/2024/tori-open-2024-top-8.jpg)
+</figure>
+
+<figure id="group-photo">
+![Group photo with the participants, staff and substitutes of the Toronto Riichi Open 2024. Prize winners show off their awards.](/assets/tro/2024/tori-open-2024-group.jpg)
+</figure>
+
+* * *
+
 ## Seatings
 
 Seatings for the first 6 hanchan are outlined below.
