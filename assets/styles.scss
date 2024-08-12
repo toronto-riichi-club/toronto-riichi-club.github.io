@@ -44,3 +44,9 @@ body:not(.no-feature-background) .feature {
     box-shadow: 0 0 1em 1em #FFFFFFAA;
   }
 }
+
+ins {
+  text-decoration: none;
+  background-color: yellow;
+  color: black;
+}
