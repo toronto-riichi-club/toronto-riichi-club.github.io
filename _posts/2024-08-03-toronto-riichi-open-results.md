@@ -5,7 +5,7 @@ categories:
 tags:
 - tournaments
 title: Toronto Riichi Open 2024 Results
-description: The results of the Toronto Riichi Open 2024 are coming in!
+description: The results of the Toronto Riichi Open 2024 are in!
 feature_image: "/assets/logos/tro.svg"
 ---
 
