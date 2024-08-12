@@ -11,13 +11,14 @@ We meet regularly to play mahjong both online and in-person.
 
 ## Toronto Riichi Open 2024
 
-**Registrations are now open!**
-
 The Toronto Riichi Club is excited to announce the second Toronto Riichi Open (TORI Open)! Please see the [announcement post][TORI Open announcement post] for details and registration.
+
+<ins>**Update 2023-08-04**</ins>: The [tournament results][TORI Open results] are out!
 
 [![TORI Open logo](/assets/logos/tro.svg)][TORI Open announcement post]
 
 [TORI Open announcement post]: {% post_url 2024-04-16-toronto-riichi-open %}
+[TORI Open results]: {% post_url 2024-08-03-toronto-riichi-open-results %}
 
 ## Meetups
 
