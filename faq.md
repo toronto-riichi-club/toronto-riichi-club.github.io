@@ -21,7 +21,7 @@ However, there may be online pickup games on other platforms (such as Mahjong So
 [L1416]: http://tenhou.net/0/?L1416
 [Discord]: https://discord.gg/S4SxKgw
 
-## How do I attend an online meetup?
+### How do I attend an online meetup?
 
 1. Check into the #waiting lobby by posting your Tenhou name in this channel and posting `-q`.
    - Optionally join the voice chat.
