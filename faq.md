@@ -16,7 +16,7 @@ layout: page
 Official club meetups take place every 2nd and 4th Tuesday on Tenhou.net in [lobby L1416][L1416].
 If you are interested in these official online meetups, give yourself the `@Online` role in `#readme` in the [TORI Discord server][Discord].
 
-However, there may be online pickup games on other platforms (such as Mahjong Soul) hosted by members. If you are interested in these, please give yourself the @Pickup (Online) role in #readme.
+However, there may be online pickup games on other platforms (such as Mahjong Soul) hosted by members. If you are interested in these, please give yourself the `@Pickup (Online)` role in the `#readme` channel.
 
 [L1416]: http://tenhou.net/0/?L1416
 [Discord]: https://discord.gg/S4SxKgw
