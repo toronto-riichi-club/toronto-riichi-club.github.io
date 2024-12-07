@@ -127,6 +127,8 @@ navigation_header:
   url: /rules/
 - title: Resources
   url: /resources/
+- title: FAQ
+  url: /faq/
 - title: Blog
   url: /blog/
 - title: Contact
