@@ -37,10 +37,7 @@ However, there may be online pickup games on other platforms (such as Mahjong So
 
 Currently, we host regular in-person meetups at four different locations:
 
-- Toronto (Downtown): [17 Tiles (556 Yonge St 2nd & 3rd Floors, Toronto, ON M4Y 1Y8)](https://maps.app.goo.gl/tq2ZLD5bLwX1dzNM9)
-  - Every 1st Saturday (1:00PM - 6:00PM)
-  - $12.50 + tax  (10% off food and drink, pay upon arrival)
-  - Chinese autotables
+- Toronto (Downtown): This meetup has been replaced with pickup games until further notice.
 
 - Toronto (Midtown):  [For The Win Board Game Cafe (3216 Yonge St, Toronto, ON M4N 2L2)](https://maps.app.goo.gl/fiPTZan2QNBYkeVm7)
   - Every 3rd Tuesday (6:00PM - 11:00PM)

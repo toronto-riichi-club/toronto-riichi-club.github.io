@@ -31,13 +31,7 @@ If you are in an area outside of these four regions, let us know and we may be a
 
 #### Downtown Toronto
 
-Downtown Toronto meets every 1st Saturday of the month at [**17 Tiles**](https://17tiles.wordpress.com/).
-
-> [556 Yonge St.](https://maps.app.goo.gl/zPAJUp7DKQnfaMZc9)  
-> 2nd & 3rd Floors  
-> Toronto, ON  M4Y 1Y8
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.2136297795514!2d-79.38720692331769!3d43.66452667110156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b3566eaa007fd%3A0xfeb2163fcff0641!2zMTcgVGlsZXMgQm9hcmQgR2FtZXMgYW5kIE1haGpvbmcgQ2Fmw6kg5Y2B5LiD6ZuA!5e0!3m2!1sen!2sca!4v1703624737403!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+This meetup has been replaced with pickup games until further notice.
 
 #### Midtown Toronto
 
