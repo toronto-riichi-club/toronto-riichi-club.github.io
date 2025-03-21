@@ -9,6 +9,14 @@ feature_text: |
 The Toronto Riichi Club (TORI) is a club based in Toronto, Canada that aims to promote Japanese mahjong in the Toronto area.
 We meet regularly to play mahjong both online and in-person.
 
+## Toronto Riichi Open 2025
+
+The Toronto Riichi Club is excited to announce the third Toronto Riichi Open (TORI Open)! Please see the [announcement post][TORI Open announcement post] for details and registration.
+
+[![TORI Open logo](/assets/logos/tro.svg)][TORI Open announcement post]
+
+[TORI Open announcement post]: {% post_url 2025-03-24-toronto-riichi-open %}
+
 ## Meetups
 
 TORI meets regularly both online and in person in and around the GTA.
