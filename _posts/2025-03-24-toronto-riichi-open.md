@@ -10,6 +10,7 @@ feature_image: "/assets/logos/tro.svg"
 image: "/assets/tro/2025/tori-open-2025-promo1.png"
 redirect_from:
 - /tori-open-2025
+- /tori-open-2025/
 ---
 
 {::options parse_block_html="true" /}
