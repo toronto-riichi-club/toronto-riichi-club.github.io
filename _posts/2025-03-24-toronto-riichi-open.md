@@ -7,6 +7,7 @@ tags:
 title: Toronto Riichi Open 2025
 description: The Toronto Riichi Club is excited to announce the third Toronto Riichi Open (TORI Open). We hope to see you there!
 feature_image: "/assets/logos/tro.svg"
+image: "/assets/tro/2025/tori-open-2025-promo1.png"
 redirect_from:
 - /tori-open-2025
 ---
