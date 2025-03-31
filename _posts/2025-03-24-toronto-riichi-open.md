@@ -63,9 +63,11 @@ From Union Station:
 
 The early bird tournament fee is **$75 CAD** if you register and pay by <time datetime="2025-05-31T23:59-0400">May 31, 2025 11:59 pm EDT</time>. After that date, the fee will be raised to **$85 CAD**.
 
-**Registration will open on <time datetime="2025-03-31T19:00-0400">March 31, 2025 7:00 pm EDT</time>.** There is a limit of 80 entrants; those registering after the limit will be put on a waiting list.
+**Registration is now open.** Fill out the [registration form][] (disponible en français) by <time datetime="2025-07-19T23:59-0400">July 19, 2025 11:59 pm EDT</time> to register for the tournament. There is a limit of 80 entrants; those registering after the limit will be put on a waiting list.
 
-Tournament fees are due by <time datetime="2025-07-19T23:59-0400">July 19, 2025 at 11:59 pm EDT</time> and shall be paid **via Interac e-Transfer** to `finance@torontoriichi.club` (preferred) or **via PayPal** to the Toronto Riichi Club PayPal account. If your payment is not received by that date, you forfeit your spot to the next person on the waiting list. **Cash payments will not be accepted this year.**
+[registration form]: https://forms.gle/VNUWeQ9LZuD2Bkdz5
+
+Tournament fees are due by <time datetime="2025-07-26T23:59-0400">July 26, 2025 at 11:59 pm EDT</time> and shall be paid **via Interac e-Transfer** to `finance@torontoriichi.club` (preferred) or **via PayPal** to the Toronto Riichi Club PayPal account. If your payment is not received by that date, you forfeit your spot to the next person on the waiting list. **Cash payments will not be accepted this year.**
 
 [tournaments@torontoriichi.club]: mailto:tournaments@torontoriichi.club
 
