@@ -81,7 +81,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (25 registered) <!-- {#participants} -->
+#### Participants (25 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -118,8 +118,6 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 
 </details>
 
-<!--
-
 <script>
 {
 
@@ -137,7 +135,6 @@ openParticipantsWhenLinked(window.location.href);
 
 }
 </script>
--->
 
 ### Food
 
