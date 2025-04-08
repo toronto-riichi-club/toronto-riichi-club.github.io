@@ -88,6 +88,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 
 
 | Name | Club/Region |
+|-|-|
 | Calvin C. | Riichi Nomi NYC |
 | *Carl B.* | *Québec, Canada* |
 | *Catherine T.* | *Toronto Riichi Club (TORI)* |
