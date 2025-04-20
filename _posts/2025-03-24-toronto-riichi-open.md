@@ -81,7 +81,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (25 registered) {#participants}
+#### Participants (36 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -89,31 +89,42 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 
 | Name | Club/Region |
 |-|-|
+| *Amy S.* | *Capital Riichi Club (CRIC)* |
+| *Andrea A.* | *Toronto Riichi Club (TORI)* |
 | Calvin C. | Riichi Nomi NYC |
 | *Carl B.* | *Québec, Canada* |
-| *Catherine T.* | *Toronto Riichi Club (TORI)* |
+| Catherine T. | Toronto Riichi Club (TORI) |
 | *Cody L.* | *Riichi Nomi NYC* |
 | *David G.* | *Chicago Area Mahjong* |
+| *Dennis K.* | *Toronto Riichi Club (TORI)* |
 | *Ding* | *Riichi Mahjong UW (RMUW)* |
 | *Grant M.* | *Club riichi de Montreal* |
 | *Harry H.* | *Toronto Riichi Club (TORI)* |
+| *Henry V.* | *Toronto Riichi Club (TORI)* |
 | Hilda Z. | Riichi Mahjong UW (RMUW) |
 | Irene T. | Toronto Riichi Club (TORI) |
-| *Jon Jon* | *Toronto Riichi Club (TORI)* |
-| *Junyi L.* | *Saskatchewan, Canada* |
+| *Jim Y.* | *Toronto Riichi Club (TORI)* |
+| Jon Jon | Toronto Riichi Club (TORI) |
+| Junyi L. | Saskatchewan, Canada |
+| *Justin K.* | *UBC Mahjong Club* |
 | *K.* | *New Jongy Bois* |
 | *Kevin X.* | *Riichi Nomi NYC* |
+| *Leo Z.* | *Toronto Riichi Club (TORI)* |
 | Loïc R. | Club riichi de Montreal |
 | Melissa F. | Riichi Nomi NYC |
 | *Michael M.* | *Toronto Riichi Club (TORI)* |
 | *Miguel C.* | *Toronto Riichi Club (TORI)* |
-| *P. C.-R.* | *Capital Riichi Club (CRIC)* |
-| *Philippe O.* | *Club riichi de Montreal* |
+| P. C.-R. | Capital Riichi Club (CRIC) |
+| Philippe O. | Club riichi de Montreal |
+| *Ray C.* | *Toronto Riichi Club (TORI)* |
+| *Ritwika B.* | *Toronto Riichi Club (TORI)* |
 | *Rob C* | *Toronto Riichi Club (TORI)* |
 | *Toshihiro S.* | *Capital Riichi Club (CRIC)* |
-| *Victor S.-A.* | *Club riichi de Montreal* |
-| *Vincent* | *Toronto Riichi Club (TORI)* |
+| Victor S.-A. | Club riichi de Montreal |
+| Vincent | Toronto Riichi Club (TORI) |
 | *Vincent Shao* | *Toronto Riichi Club (TORI)* |
+| Wrath | Toronto Riichi Club (TORI) |
+| *Zach W.* | *Southeast Michigan Mahjong* |
 
 </div>
 
