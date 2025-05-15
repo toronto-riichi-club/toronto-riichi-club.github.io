@@ -81,7 +81,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (46 registered) {#participants}
+#### Participants (48 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -89,6 +89,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 
 | Name | Club/Region |
 |-|-|
+| Alyssa T. | Toronto Riichi Club (TORI) |
 | *Amy S.* | *Capital Riichi Club (CRIC)* |
 | *Anson W.* | *HKMA* |
 | Andrea A. | Toronto Riichi Club (TORI) |
@@ -100,7 +101,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Dennis K. | Toronto Riichi Club (TORI) |
 | Ding | Riichi Mahjong UW (RMUW) |
 | Grant M. | Club riichi de Montreal |
-| *Harry H.* | *Toronto Riichi Club (TORI)* |
+| Harry H. | Toronto Riichi Club (TORI) |
 | *Henry V.* | *Toronto Riichi Club (TORI)* |
 | Hilda Z. | Riichi Mahjong UW (RMUW) |
 | Irene T. | Toronto Riichi Club (TORI) |
@@ -108,26 +109,27 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | *Jim Y.* | *Toronto Riichi Club (TORI)* |
 | Jon Jon | Toronto Riichi Club (TORI) |
 | Junyi L. | Saskatchewan, Canada |
-| *Justin K.* | *UBC Mahjong Club* |
+| Justin K. | UBC Mahjong Club |
 | *K.* | *New Jongy Bois* |
+| Kevin N. | Riichi Nomi NYC |
 | *Kevin X.* | *Riichi Nomi NYC* |
-| *Leo Z.* | *Toronto Riichi Club (TORI)* |
+| Leo Z. | Toronto Riichi Club (TORI) |
 | Loïc R. | Club riichi de Montreal |
 | Melissa F. | Riichi Nomi NYC |
 | *Michael M.* | *Toronto Riichi Club (TORI)* |
 | Miguel C. | Toronto Riichi Club (TORI) |
-| *Michiko K.* | *Ottawa, Canada* |
+| Michiko K. | Ottawa, Canada |
 | P. C.-R. | Capital Riichi Club (CRIC) |
 | Philippe O. | Club riichi de Montreal |
 | Pokey | Toronto Riichi Club (TORI) |
-| *Ray C.* | *Toronto Riichi Club (TORI)* |
+| Ray C. | Toronto Riichi Club (TORI) |
 | Ritwika B. | Toronto Riichi Club (TORI) |
-| *Rob C* | *Toronto Riichi Club (TORI)* |
+| Rob C | Toronto Riichi Club (TORI) |
 | *Rohit T.* | *Riichi Mahjong UW (RMUW)* |
 | *Ryan N.* | *Riichi Mahjong UW (RMUW)* |
 | *Sébastien B.* | *Club riichi de Montreal* |
 | Stéphanie C. | Club riichi de Montreal |
-| *Toshihiro S.* | *Capital Riichi Club (CRIC)* |
+| Toshihiro S. | Capital Riichi Club (CRIC) |
 | *Umar A.* | *Ontario, Canada* |
 | Victor S.-A. | Club riichi de Montreal |
 | Vincent | Toronto Riichi Club (TORI) |
