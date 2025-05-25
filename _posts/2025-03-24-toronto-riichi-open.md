@@ -81,7 +81,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (48 registered) {#participants}
+#### Participants (50 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -90,14 +90,16 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Name | Club/Region |
 |-|-|
 | Alyssa T. | Toronto Riichi Club (TORI) |
-| *Amy S.* | *Capital Riichi Club (CRIC)* |
+| Amy S. | Capital Riichi Club (CRIC) |
 | *Anson W.* | *HKMA* |
 | Andrea A. | Toronto Riichi Club (TORI) |
 | Calvin C. | Riichi Nomi NYC |
 | Carl B. | Québec, Canada |
 | Catherine T. | Toronto Riichi Club (TORI) |
+| Chris | Montreal Riichi Club |
 | *Cody L.* | *Riichi Nomi NYC* |
 | *David G.* | *Chicago Area Mahjong* |
+| David TG | Montreal Riichi Club |
 | Dennis K. | Toronto Riichi Club (TORI) |
 | Ding | Riichi Mahjong UW (RMUW) |
 | Grant M. | Club riichi de Montreal |
@@ -106,7 +108,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Hilda Z. | Riichi Mahjong UW (RMUW) |
 | Irene T. | Toronto Riichi Club (TORI) |
 | *JET* | *Ontario, Canada* |
-| *Jim Y.* | *Toronto Riichi Club (TORI)* |
+| Jim Y. | Toronto Riichi Club (TORI) |
 | Jon Jon | Toronto Riichi Club (TORI) |
 | Junyi L. | Saskatchewan, Canada |
 | Justin K. | UBC Mahjong Club |
