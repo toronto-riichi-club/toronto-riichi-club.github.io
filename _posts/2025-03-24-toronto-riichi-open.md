@@ -81,7 +81,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (63 registered) {#participants}
+#### Participants (64 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -126,6 +126,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Leo Z. | Toronto Riichi Club (TORI) |
 | Loïc R. | Club riichi de Montreal |
 | Mark T. | Toronto Riichi Club (TORI) |
+| *Max S.* | *Riichi Nomi NYC* |
 | May S. | Rainbow Dragon Mahjong Toronto |
 | Melissa F. | Riichi Nomi NYC |
 | Melvin P. | Riichi Nomi NYC |
