@@ -59,6 +59,13 @@ From Union Station:
 3. Walk 100m east along Gerrard St. E until the pedestrian walkway, on your right.
 4. Turn right into the walkway and enter the building on your right.
 
+
+#### Parking
+There are a few parking lots available near the venue and are listed below. Please go through each one for rates and electric vehicle charging options.
+- [300 Victoria St. Garage](https://www.torontomu.ca/parking/locations/pkg-parking-garage/)
+- [288 Church St. Garage](https://www.torontomu.ca/parking/locations/dcc-parking-garage/)
+- [202 Jarvis St. Lot](https://www.torontomu.ca/parking/locations/202-jarvis-lot/)
+
 ### Fees and Registration
 
 The early bird tournament fee is **$75 CAD** if you register and pay by <time datetime="2025-05-31T23:59-0400">May 31, 2025 11:59 pm EDT</time>. After that date, the fee will be raised to **$85 CAD**.
