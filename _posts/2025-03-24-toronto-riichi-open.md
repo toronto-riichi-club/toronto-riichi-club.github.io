@@ -88,7 +88,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (64 registered) {#participants}
+#### Participants (65 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -142,6 +142,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Miguel C. | Toronto Riichi Club (TORI) |
 | Ming | Toronto Riichi Club (TORI) |
 | Mingmei H. | Toronto Riichi Club (TORI) |
+| Myan L. | Hong Kong |
 | P. C.-R. | Capital Riichi Club (CRIC) |
 | Philippe O. | Club riichi de Montreal |
 | Pokey | Toronto Riichi Club (TORI) |
