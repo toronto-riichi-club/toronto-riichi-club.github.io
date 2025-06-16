@@ -193,9 +193,15 @@ No catering will be provided at the event, but there are many food options avail
 There are many reasonably-priced hotels within walking distance of the tournament venue. The Toronto Riichi Club has not partnered with any specific accommodation provider for this event.
 
 ### Rules and Format
+The tournament will follow [WRC 2025 rules][WRC rules] with the latest Lower Penalties table, along with the following additions/exceptions/clarifications:
+  - Wrongly revealing tiles: 
+    - 1-3 tiles: No penalty (upgraded to warning, then -5.0pts penalty for repeated offences)
+    - 4-6 tiles: Dead hand
+    - 7+ tiles: Chombo 
+  - Incorrect all-last sheet: -8.0pts penalty for the offending player, if it changed the result of the game
+  - Incorrect report sheet: -2.0pts penalty per player
 
-The tournament will follow the [latest WRC rules][WRC rules] (tenatively the WRC 2022 rules, but the WRC 2025 rules will be used instead if and when published) with the lower penalties described by Mod 6.3 in the optional rules.
-[Tournament etiquette][] will also be observed.
+If an exception/addition/clarification is not listed above, then referees will use WRC 2025 rules as the basis of their judgment. As a reminder, players must not abuse the rules or exploit loop-holes in the rules. [Tournament etiquette][] will also be observed.
 
 [WRC rules]: https://www.worldriichi.org/wrc-rules
 [tournament etiquette]: {% link tournament-etiquette.md %}
@@ -203,7 +209,7 @@ The tournament will follow the [latest WRC rules][WRC rules] (tenatively the WRC
 #### First day
 
 - 4 hanchan
-- 90 minute hanchan time limit. Unfinished hands being played at the time limit will be played to completion.
+- 80 minute hanchan time limit. Unfinished hands being played at the time limit will be played to completion, then one more hand will be played if the game is not yet finished. If the hand has just finished when time is completed, then two more hands will be played.
 
 #### Second day
 
@@ -211,13 +217,15 @@ The second day will be split into two halves. After the first half, a cut to the
 
 - First half:
   - 2 hanchan
-  - 90 minute hanchan time limit. Unfinished hands being played at the time limit will be played to completion.
-  - Top 8: scores will be quartered.
+  - 80 minute hanchan time limit. Unfinished hands being played at the time limit will be played to completion, then one more hand will be played if the game is not yet finished. If the hand has just finished when time is completed, then two more hands will be played.
+  - Top 8: Scores will be quartered after Hanchan 6.
   - All other players: scores will be left as-is.
 - Second half:
   - 2 hanchan
-  - 90 minute hanchan time limit. Unfinished hands being played at the time limit will be played to completion.
-  - Top 8 will play for positions 1-8.
+  - 80 minute hanchan time limit. Unfinished hands being played at the time limit will be played to completion, then one more hand will be played if the game is not yet finished. If the hand has just finished when time is completed, then two more hands will be played.
+  - Top 8 will play for positions 1-8. The seating of the players will be based on their position after Hanchan 6
+    - Hanchan 7: [1,2,7,8] [3,4,5,6]
+    - Hanchan 8: [1,3,6,8] [2,4,5,7]
   - All other players will play for positions 9+.
 
 ### Schedule
@@ -232,13 +240,13 @@ All times are in EDT.
 |------------|--------------------------
 | **08:30**  | Registration and opening
 | **09:30**  | Hanchan 1
-| **11:00**  | Break
+| **10:50**  | Break
 | **11:30**  | Hanchan 2
-| **13:00**  | Lunch
+| **12:50**  | Lunch
 | **15:00**  | Hanchan 3
-| **16:30**  | Break
+| **16:20**  | Break
 | **17:00**  | Hanchan 4
-| **18:30**  | Free play
+| **18:20**  | Free play
 
 </div>
 
@@ -250,15 +258,15 @@ All times are in EDT.
 |------------|--------------------------
 | **08:30**  | Reorganization
 | **09:30**  | Hanchan 5
-| **11:00**  | Break
+| **10:50**  | Break
 | **11:30**  | Hanchan 6
-| **13:00**  | Lunch
+| **12:50**  | Lunch
 | **15:00**  | Hanchan 7
-| **16:30**  | Break
+| **16:20**  | Break
 | **17:00**  | Hanchan 8
-| **18:30**  | Break
+| **18:20**  | Break
 | **19:00**  | Awards ceremony
-| **19:30**  | Free play
+| **19:20**  | Free play
 
 </div>
 
