@@ -98,6 +98,7 @@ url: 'https://www.torontoriichi.club'
 baseurl: ''
 lang: en-CA
 title: 'Toronto Riichi Club'
+short_name: 'TORI'
 description: 'To ron, to riichi.'
 permalink: pretty
 logo: "/assets/logos/logo.svg"
