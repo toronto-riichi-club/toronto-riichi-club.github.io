@@ -13,6 +13,20 @@ $focusColour: #1a47cd;
 $captionColour: #a8adac;
 $white: #ffffff;
 
+:root {
+  --backgroundColour: #{$backgroundColour};
+  --codeBackgroundColour: #{$codeBackgroundColour};
+  --featureBackgroundColour: #{$featureBackgroundColour};
+  --accentColour: #{$accentColour};
+  --headingColour: #{$headingColour};
+  --bodyColour: #{$bodyColour};
+  --linkColour: #{$linkColour};
+  --hoverColour: #{$hoverColour};
+  --focusColour: #{$focusColour};
+  --captionColour: #{$captionColour};
+  --white: #{$white};
+}
+
 // Typography
 $bodytype: (
   font-family: 'Georgia, serif',
