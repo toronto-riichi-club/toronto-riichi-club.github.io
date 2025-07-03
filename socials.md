@@ -9,11 +9,17 @@ Follow us on these platforms!
 
 <div class="socials-list">
 
-- [{% include icon.html id="discord" %} Discord]({{site.social_links.Discord}})
-- [{% include icon.html id="globe" %} Website](https://www.torontoriichi.club/)
-- [{% include icon.html id="x" %} X (Twitter)]({{site.social_links.X}})
-- [{% include icon.html id="github" %} GitHub]({{site.social_links.GitHub}})
-- [{% include icon.html id="twitch" %} Twitch]({{site.social_links.Twitch}})
+- [{% include icon.html id="discord" %} Discord]({{site.social_links_all.Discord}})
+- [{% include icon.html id="globe" %} Website]({{site.social_links_all.Website}})
+- [{% include icon.html id="bluesky" %} Bluesky]({{site.social_links_all.Bluesky}})
+- [{% include icon.html id="x" %} X (Twitter)]({{site.social_links_all.X}})
+- [{% include icon.html id="instagram" %} Instagram]({{site.social_links_all.Instagram}})
+- [{% include icon.html id="github" %} GitHub]({{site.social_links_all.GitHub}})
+- [{% include icon.html id="twitch" %} Twitch]({{site.social_links_all.Twitch}})
+
+* * *
+
+- [{% include icon.html id="discord" %} TORI Open Discord](https://discord.gg/XrhPZRwPMZ)
 
 </div>
 
