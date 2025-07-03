@@ -37,22 +37,41 @@ Follow us on these platforms!
 .socials-list li a {
   display: inline-block;
   width: 100%;
-  padding: 1ex;
+  padding: 1.5ex 1ex;
   border: 2px solid var(--bodyColour);
   border-radius: 1em;
-  background-image: none !important;
+  transition: background-image 300ms;
+  background-color: white;
+  background-image: linear-gradient(to right, #ffffff 25%, var(--linkColour));
+  background-position: unset;
+  background-size: unset;
+  text-shadow: 0.1rem 0 3px #fff,0.15rem 0 3px #fff,-0.1rem 0 3px #fff,-0.15rem 0 3px #fff; /* from theme, with blur */
+  box-shadow: 0.25em 0.25em 0.5em #00000040;
+  color: black;
 }
-.socials-list a:hover {
+.socials-list li a:hover,
+.socials-list li a:active,
+.socials-list li a:focus {
   border-color: var(--linkColour);
+  background-image: linear-gradient(to right, #ffffff 33%, #1aa0cd80);
+  color: var(--hoverColour)
 }
 
-.socials-list a:hover .icon--discord { color: #5865F2; }
-.socials-list a:hover .icon--x       { color: #000000; }
-.socials-list a:hover .icon--github  { color: #181717; }
-.socials-list a:hover .icon--twitch  { color: #9146FF; }
+.socials-list a .icon--discord { color: #5865F2; }
+.socials-list a .icon--globe   { color: #1AA0CD; }
+.socials-list a .icon--bluesky { color: #0285FF; }
+.socials-list a .icon--x       { color: #000000; }
+.socials-list a .icon--instagram { color: #FF0069; }
+.socials-list a .icon--github  { color: #181717; }
+.socials-list a .icon--twitch  { color: #9146FF; }
 
 .socials-list svg {
   vertical-align: sub;
   margin-right: 1ex;
+}
+
+.socials-list hr {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 </style>
