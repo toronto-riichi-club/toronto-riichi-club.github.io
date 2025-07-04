@@ -88,7 +88,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (65 registered) {#participants}
+#### Participants (68 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -143,6 +143,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Ming | Toronto Riichi Club (TORI) |
 | Mingmei H. | Toronto Riichi Club (TORI) |
 | Myan L. | Hong Kong |
+| *Noona* | *Atlanta Riichi Club* |
 | P. C.-R. | Capital Riichi Club (CRIC) |
 | Philippe O. | Club riichi de Montreal |
 | Pokey | Toronto Riichi Club (TORI) |
@@ -151,6 +152,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Rob C | Toronto Riichi Club (TORI) |
 | *Rohit T.* | *Riichi Mahjong UW (RMUW)* |
 | Ryan N. | Riichi Mahjong UW (RMUW) |
+| Sasha-Blue D. | British Columbia, Canada |
 | Sébastien B. | Club riichi de Montreal |
 | Stéphanie C. | Club riichi de Montreal |
 | Toshihiro S. | Capital Riichi Club (CRIC) |
@@ -158,9 +160,10 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Victor S.-A. | Club riichi de Montreal |
 | Vincent | Toronto Riichi Club (TORI) |
 | Vincent Shao | Toronto Riichi Club (TORI) |
+| *Will W.* | *Toronto Riichi Club (TORI)* |
 | Wrath | Toronto Riichi Club (TORI) |
 | *Zach W.* | *Southeast Michigan Mahjong* |
-| *yxzd03* | *Toronto Riichi Club (TORI)* |
+| newbkaek | Ontario, Canada |
 
 </div>
 
