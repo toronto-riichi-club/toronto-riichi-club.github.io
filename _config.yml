@@ -142,9 +142,15 @@ navigation_footer:
 - title: Back to top
   url: "#top"
 
-social_links:
+social_links: &socials_nav
   Discord: https://discord.gg/S4SxKgw
+  Bluesky: https://bsky.app/profile/torontoriichi.club
   X: https://x.com/torontoriichi
+  Instagram: https://www.instagram.com/torontoriichi/
+
+social_links_all:
+  <<: *socials_nav
+  Website: https://www.torontoriichi.club/
   Twitch: https://www.twitch.tv/torontoriichiclub
   GitHub: https://github.com/toronto-riichi-club
 
