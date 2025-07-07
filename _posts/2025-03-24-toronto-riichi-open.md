@@ -88,7 +88,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (68 registered) {#participants}
+#### Participants (66 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -108,7 +108,6 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Catherine T. | Toronto Riichi Club (TORI) |
 | Chris | Montreal Riichi Club |
 | *Cody L.* | *Riichi Nomi NYC* |
-| *Collin Wang* | *Montreal Riichi Club* |
 | David G. | Chicago Area Mahjong |
 | David TG | Montreal Riichi Club |
 | Ding | Riichi Mahjong UW (RMUW) |
@@ -160,7 +159,6 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Victor S.-A. | Club riichi de Montreal |
 | Vincent | Toronto Riichi Club (TORI) |
 | Vincent Shao | Toronto Riichi Club (TORI) |
-| *Will W.* | *Toronto Riichi Club (TORI)* |
 | Wrath | Toronto Riichi Club (TORI) |
 | *Zach W.* | *Southeast Michigan Mahjong* |
 | newbkaek | Ontario, Canada |
