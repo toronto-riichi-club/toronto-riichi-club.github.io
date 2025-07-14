@@ -88,7 +88,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (66 registered) {#participants}
+#### Participants (69 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -129,13 +129,15 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | *K.* | *New Jongy Bois* |
 | Kevin N. | Riichi Nomi NYC |
 | Kevin X. | Riichi Nomi NYC |
+| Kim Chow | Toronto Riichi Club (TORI) | 
 | Leo Z. | Toronto Riichi Club (TORI) |
 | Loïc R. | Club riichi de Montreal |
 | Mark T. | Toronto Riichi Club (TORI) |
-| *Max S.* | *Riichi Nomi NYC* |
+| Max S. | Riichi Nomi NYC |
 | May S. | Rainbow Dragon Mahjong Toronto |
 | Melissa F. | Riichi Nomi NYC |
 | Melvin P. | Riichi Nomi NYC |
+| *Michael G.* | *Saikouisen Japan Pro Mahjong* |
 | Michael M. | Toronto Riichi Club (TORI) |
 | Michiko K. | Ottawa, Canada |
 | Miguel C. | Toronto Riichi Club (TORI) |
@@ -144,6 +146,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Myan L. | Hong Kong |
 | *Noona* | *Atlanta Riichi Club* |
 | P. C.-R. | Capital Riichi Club (CRIC) |
+| *Paul C.* | *Toronto Riichi Club (TORI)* |
 | Philippe O. | Club riichi de Montreal |
 | Pokey | Toronto Riichi Club (TORI) |
 | Ray C. | Toronto Riichi Club (TORI) |
