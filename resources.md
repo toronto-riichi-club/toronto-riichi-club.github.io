@@ -5,8 +5,8 @@ layout: page
 
 ## Reference sheets
 
-* [TORI casual](https://github.com/toronto-riichi-club/reference-sheet/releases/download/v2.0.0/riichi-refsheet-2.0.0.pdf)
-* [TORI tournament (WRC)](https://github.com/toronto-riichi-club/reference-sheet/releases/download/v2.0.0/wrc-refsheet-2.0.0.pdf)
+* [TORI casual](https://github.com/toronto-riichi-club/reference-sheet/releases/download/v2.1.0/riichi-refsheet-2.1.0.pdf)
+* [TORI tournament (WRC)](https://github.com/toronto-riichi-club/reference-sheet/releases/download/v2.1.0/wrc-refsheet-2.1.0.pdf)
 * [Source code](https://github.com/toronto-riichi-club/reference-sheet)
 
 ## Discord servers
