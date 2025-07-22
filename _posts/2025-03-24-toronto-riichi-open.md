@@ -97,7 +97,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Name | Club/Region |
 |-|-|
 | Adrian M. | Toronto Riichi Club (TORI) |
-| Aja I. | Nine Gates |
+| Advay B. | Illinois, USA |
 | Alyssa T. | Toronto Riichi Club (TORI) |
 | Amelia S. | Princess Place Mahjong Club |
 | Amy S. | Capital Riichi Club (CRIC) |
@@ -107,17 +107,22 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Carl B. | Québec, Canada |
 | Catherine T. | Toronto Riichi Club (TORI) |
 | Chris | Montreal Riichi Club |
+| *Chris Y.* | *Suomen Mahjong-liitto* |
+| Christopher L. | Riichi Nomi NYC |
 | *Cody L.* | *Riichi Nomi NYC* |
 | David G. | Chicago Area Mahjong |
 | David TG | Montreal Riichi Club |
 | Ding | Riichi Mahjong UW (RMUW) |
+| Edward Z. | Philly MahJawn Club |
 | Francisco G. | Chicago, USA |
 | Grant M. | Club riichi de Montreal |
 | Harrison C. | Toronto Riichi Club (TORI) |
 | Harry H. | Toronto Riichi Club (TORI) |
+| *Heech* | *Toronto Riichi Club (TORI)* |
 | Henry V. | Toronto Riichi Club (TORI) |
 | Hilda Z. | Riichi Mahjong UW (RMUW) |
 | Irene T. | Toronto Riichi Club (TORI) |
+| Isaac V. | Toronto Riichi Club (TORI) |
 | Ivy Fox | Rainbow Dragon Mahjong Toronto |
 | JET | Ontario, Canada |
 | Jeremy T. | Toronto Riichi Club (TORI) |
@@ -127,6 +132,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Junyi L. | Saskatchewan, Canada |
 | Justin K. | UBC Mahjong Club |
 | *K.* | *New Jongy Bois* |
+| Kevin L. | Toronto Riichi Club (TORI) |
 | Kevin N. | Riichi Nomi NYC |
 | Kevin X. | Riichi Nomi NYC |
 | Kim Chow | Toronto Riichi Club (TORI) | 
@@ -137,7 +143,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | May S. | Rainbow Dragon Mahjong Toronto |
 | Melissa F. | Riichi Nomi NYC |
 | Melvin P. | Riichi Nomi NYC |
-| *Michael G.* | *Saikouisen Japan Pro Mahjong* |
+| Michael G. | Saikouisen Japan Pro Mahjong |
 | Michael M. | Toronto Riichi Club (TORI) |
 | Michiko K. | Ottawa, Canada |
 | Miguel C. | Toronto Riichi Club (TORI) |
@@ -146,13 +152,13 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Myan L. | Hong Kong |
 | *Noona* | *Atlanta Riichi Club* |
 | P. C.-R. | Capital Riichi Club (CRIC) |
-| *Paul C.* | *Toronto Riichi Club (TORI)* |
+| Patrick F. | Ontario, Canada |
+| Paul C. | Toronto Riichi Club (TORI) |
 | Philippe O. | Club riichi de Montreal |
 | Pokey | Toronto Riichi Club (TORI) |
 | Ray C. | Toronto Riichi Club (TORI) |
 | Ritwika B. | Toronto Riichi Club (TORI) |
 | Rob C | Toronto Riichi Club (TORI) |
-| *Rohit T.* | *Riichi Mahjong UW (RMUW)* |
 | Ryan N. | Riichi Mahjong UW (RMUW) |
 | Sasha-Blue D. | British Columbia, Canada |
 | Sébastien B. | Club riichi de Montreal |
@@ -160,11 +166,10 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Toshihiro S. | Capital Riichi Club (CRIC) |
 | Umar A. | Ontario, Canada |
 | Victor S.-A. | Club riichi de Montreal |
-| Vincent | Toronto Riichi Club (TORI) |
 | Vincent Shao | Toronto Riichi Club (TORI) |
+| Vincent Z. | Toronto Riichi Club (TORI) |
 | Wrath | Toronto Riichi Club (TORI) |
 | *Zach W.* | *Southeast Michigan Mahjong* |
-| newbkaek | Ontario, Canada |
 
 </div>
 
