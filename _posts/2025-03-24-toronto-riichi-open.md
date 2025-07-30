@@ -88,7 +88,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (69 registered) {#participants}
+#### Participants (71 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -107,9 +107,9 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Carl B. | Québec, Canada |
 | Catherine T. | Toronto Riichi Club (TORI) |
 | Chris | Montreal Riichi Club |
-| *Chris Y.* | *Suomen Mahjong-liitto* |
+| Chris Y. | Suomen Mahjong-liitto |
 | Christopher L. | Riichi Nomi NYC |
-| *Cody L.* | *Riichi Nomi NYC* |
+| Cody L. | Riichi Nomi NYC |
 | David G. | Chicago Area Mahjong |
 | David TG | Montreal Riichi Club |
 | Ding | Riichi Mahjong UW (RMUW) |
@@ -118,7 +118,6 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Grant M. | Club riichi de Montreal |
 | Harrison C. | Toronto Riichi Club (TORI) |
 | Harry H. | Toronto Riichi Club (TORI) |
-| *Heech* | *Toronto Riichi Club (TORI)* |
 | Henry V. | Toronto Riichi Club (TORI) |
 | Hilda Z. | Riichi Mahjong UW (RMUW) |
 | Irene T. | Toronto Riichi Club (TORI) |
@@ -131,7 +130,6 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Jon Jon | Toronto Riichi Club (TORI) |
 | Junyi L. | Saskatchewan, Canada |
 | Justin K. | UBC Mahjong Club |
-| *K.* | *New Jongy Bois* |
 | Kevin L. | Toronto Riichi Club (TORI) |
 | Kevin N. | Riichi Nomi NYC |
 | Kevin X. | Riichi Nomi NYC |
@@ -150,7 +148,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Ming | Toronto Riichi Club (TORI) |
 | Mingmei H. | Toronto Riichi Club (TORI) |
 | Myan L. | Hong Kong |
-| *Noona* | *Atlanta Riichi Club* |
+| Noona | Atlanta Riichi Club |
 | P. C.-R. | Capital Riichi Club (CRIC) |
 | Patrick F. | Ontario, Canada |
 | Paul C. | Toronto Riichi Club (TORI) |
@@ -169,7 +167,6 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Vincent Shao | Toronto Riichi Club (TORI) |
 | Vincent Z. | Toronto Riichi Club (TORI) |
 | Wrath | Toronto Riichi Club (TORI) |
-| *Zach W.* | *Southeast Michigan Mahjong* |
 
 </div>
 
