@@ -88,7 +88,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (71 registered) {#participants}
+#### Participants (70 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -162,7 +162,6 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Sébastien B. | Club riichi de Montreal |
 | Stéphanie C. | Club riichi de Montreal |
 | Toshihiro S. | Capital Riichi Club (CRIC) |
-| Umar A. | Ontario, Canada |
 | Victor S.-A. | Club riichi de Montreal |
 | Vincent Shao | Toronto Riichi Club (TORI) |
 | Vincent Z. | Toronto Riichi Club (TORI) |
