@@ -78,10 +78,10 @@ Final standings will also be posted here after the tournament is complete. Keep 
 Seatings for the first 6 hanchan are outlined below.
 Seatings for Hanchan 7 and 8 will be calculated on Day 2.
 
-<!--details-->
-<!--summary-->
+<details>
+<summary>
 ### Preliminaries
-<!--/summary-->
+</summary>
 
 <div class="seating-table-container">
 
@@ -158,7 +158,13 @@ Seatings for Hanchan 7 and 8 will be calculated on Day 2.
 
 </div>
 
-<!--/details-->
+</details>
+
+## Standings
+
+The results as they come in are presented below. Alternatively, view the [full-featured spreadsheet](https://docs.google.com/spreadsheets/d/1CLbf9zIpI6ZRLvnem7-x5UTc45q6FeqqKF4i3B4N_rc/edit).
+
+<iframe class="results-sheet-embed" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmaI0EPCzhTHdIfubH9ZkD0aKbKJT7zqwe5q0muVBW5BLlw67JWGW2pBLuUTNfVBzR2YZMB9wddw2Z/pubhtml?widget=true&amp;headers=false"></iframe>
 
 <style>
   summary {
