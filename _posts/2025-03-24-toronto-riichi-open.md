@@ -152,7 +152,6 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | P. C.-R. | Capital Riichi Club (CRIC) |
 | Patrick F. | Ontario, Canada |
 | Paul C. | Toronto Riichi Club (TORI) |
-| Philippe O. | Club riichi de Montreal |
 | Pokey | Toronto Riichi Club (TORI) |
 | Ray C. | Toronto Riichi Club (TORI) |
 | Ritwika B. | Toronto Riichi Club (TORI) |
@@ -160,7 +159,6 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Ryan N. | Riichi Mahjong UW (RMUW) |
 | Sasha-Blue D. | British Columbia, Canada |
 | Sébastien B. | Club riichi de Montreal |
-| Stéphanie C. | Club riichi de Montreal |
 | Toshihiro S. | Capital Riichi Club (CRIC) |
 | Victor S.-A. | Club riichi de Montreal |
 | Vincent Shao | Toronto Riichi Club (TORI) |
