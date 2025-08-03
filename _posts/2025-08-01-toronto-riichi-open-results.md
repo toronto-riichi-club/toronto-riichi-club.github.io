@@ -30,7 +30,7 @@ feature_image: "/assets/logos/tro.svg"
 }
 .score-table-container thead > tr:last-child > *,
 .score-table-container tbody tr:nth-child(8) td,
-.score-table-container tbody tr:nth-child(51) td,
+.score-table-container tbody tr:nth-child(65) td,
 .seating-table-container thead > tr:last-child > * {
   border-bottom-width: 1px;
   border-bottom-style: solid;
@@ -244,7 +244,89 @@ Seatings for Hanchan 7 and 8 were calculated on Day 2.
 
 ## Standings
 
-The results as they come in are presented below. Alternatively, view the [full-featured spreadsheet](https://docs.google.com/spreadsheets/d/1CLbf9zIpI6ZRLvnem7-x5UTc45q6FeqqKF4i3B4N_rc/edit).
+### Final standings
+
+After 6 hanchan, the top 8 players had their scores quartered and were put in a separate division.
+The rest of the players kept their scores and were put in another division.
+
+<div class="score-table-container">
+
+| Rank | Name | Club | Score |
+|-:|-|-|-:|
+| 1 | Carl B. | Québec, Canada | 94.4 |
+| 2 | Toshihiro S. | Capital Riichi Club (CRIC) | 65.8 |
+| 3 | Edward Z. | Philly MahJawn Club | 60.3 |
+| 4 | Chris | Montreal Riichi Club | 32.7 |
+| 5 | Alyssa T. | Toronto Riichi Club (TORI) | 27.7 |
+| 6 | Justin K. | UBC Mahjong Club | 0.5 |
+| 7 | Rob C | Toronto Riichi Club (TORI) | -26.3 |
+| 8 | Adrian M. | Toronto Riichi Club (TORI) | -44.3 |
+| 9 | Amy S. | Capital Riichi Club (CRIC) | 99.1 |
+| 10 | Anson W. | HKMA | 97.5 |
+| 11 | Ray C. | Toronto Riichi Club (TORI) | 87.7 |
+| 12 | Cody L. | Riichi Nomi NYC | 77.0 |
+| 13 | Michael M. | Toronto Riichi Club (TORI) | 75.1 |
+| 14 | Harry H. | Toronto Riichi Club (TORI) | 57.9 |
+| 15 | Ding | Riichi Mahjong UW (RMUW) | 50.8 |
+| 16 | Mark T. | Toronto Riichi Club (TORI) | 49.2 |
+| 17 | Christopher L. | Riichi Nomi NYC | 46.6 |
+| 18 | Grant M. | Club riichi de Montreal | 35.9 |
+| 19 | Noona | Atlanta Riichi Club | 32.9 |
+| 20 | Melissa F. | Riichi Nomi NYC | 27.2 |
+| 21 | Vincent Z. | Toronto Riichi Club (TORI) | 26.0 |
+| 22 | Irene T. | Toronto Riichi Club (TORI) | 24.9 |
+| 23 | Sasha-Blue D. | British Columbia, Canada | 22.0 |
+| 24 | Kevin X. | Riichi Nomi NYC | 17.1 |
+| 25 | Paul C. | Toronto Riichi Club (TORI) | 16.6 |
+| 26 | JET | Toronto Riichi Club (TORI) | 13.0 |
+| 27 | David TG | Montreal Riichi Club | 12.4 |
+| 28 | Ming | Toronto Riichi Club (TORI) | 11.3 |
+| 29 | Francisco G. | Chicago, USA | 9.1 |
+| 30 | Leo Z. | Toronto Riichi Club (TORI) | 8.1 |
+| 31 | Miguel C. | Toronto Riichi Club (TORI) | 7.6 |
+| 32 | Pokey | Toronto Riichi Club (TORI) | -1.5 |
+| 33 | Harrison C. | Toronto Riichi Club (TORI) | -3.9 |
+| 34 | Michael G. | Saikouisen Japan Pro Mahjong | -5.9 |
+| 35 | David G. | Chicago Area Mahjong | -9.1 |
+| 36 | Catherine T. | Toronto Riichi Club (TORI) | -10.3 |
+| 37 | Sébastien B. | Club riichi de Montreal | -12.9 |
+| 38 | Hilda Z. | Riichi Mahjong UW (RMUW) | -15.7 |
+| 39 | P. C.-R. | Capital Riichi Club (CRIC) | -16.6 |
+| 40 | Ryan N. | Riichi Mahjong UW (RMUW) | -20.1 |
+| 41 | Jim Y. | Toronto Riichi Club (TORI) | -22.4 |
+| 42 | Kevin L. | Toronto Riichi Club (TORI) | -33.3 |
+| 43 | Andrea A. | Capital Riichi Club (CRIC) | -36.7 |
+| 44 | Isaac V. | Toronto Riichi Club (TORI) | -37.4 |
+| 45 | Junyi L. | Saskatchewan, Canada | -37.6 |
+| 46 | Kim Chow | Toronto Riichi Club (TORI) | -37.7 |
+| 47 | Calvin C. | Riichi Nomi NYC | -39.7 |
+| 48 | Max S. | Riichi Nomi NYC | -40.8 |
+| 49 | Vincent Shao | Toronto Riichi Club (TORI) | -44.7 |
+| 50 | Advay B. | Illinois, USA | -45.7 |
+| 51 | Ivy Fox | Rainbow Dragon Mahjong Toronto | -50.7 |
+| 52 | Loïc R. | Club riichi de Montreal | -50.9 |
+| 53 | Wrath | Toronto Riichi Club (TORI) | -51.9 |
+| 54 | Michiko K. | Ottawa, Canada | -59.4 |
+| 55 | Victor S.-A. | Club riichi de Montreal | -74.0 |
+| 56 | Chris Y. | Suomen Mahjong-liitto | -80.7 |
+| 57 | Henry V. | Toronto Riichi Club (TORI) | -86.7 |
+| 58 | Kevin N. | Riichi Nomi NYC | -87.7 |
+| 59 | Jeremy T. | Toronto Riichi Club (TORI) | -112.8 |
+| 60 | May S. | Rainbow Dragon Mahjong Toronto | -114.2 |
+| 61 | Patrick F. | Ontario, Canada | -117.5 |
+| 62 | Amelia S. | Princess Place Mahjong Club | -134.6 |
+| 63 | Johana B. | Princess Place Mahjong Club | -156.7 |
+| 64 | Jon Jon | Toronto Riichi Club (TORI) | -170.0 |
+| 65 | Ritwika B. | Toronto Riichi Club (TORI) | -176.9 |
+| WD | Mingmei H. | Toronto Riichi Club (TORI) |  |
+| WD | Melvin P. | Riichi Nomi NYC |  |
+| DQ | Myan L. | Hong Kong |  |
+
+</div>
+
+### Full results
+
+The full results are presented below. Alternatively, view the [full-featured spreadsheet](https://docs.google.com/spreadsheets/d/1CLbf9zIpI6ZRLvnem7-x5UTc45q6FeqqKF4i3B4N_rc/edit).
 
 <iframe class="results-sheet-embed" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmaI0EPCzhTHdIfubH9ZkD0aKbKJT7zqwe5q0muVBW5BLlw67JWGW2pBLuUTNfVBzR2YZMB9wddw2Z/pubhtml?widget=true&amp;headers=false"></iframe>
 
