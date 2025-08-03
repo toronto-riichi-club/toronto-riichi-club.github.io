@@ -160,6 +160,83 @@ Seatings for Hanchan 7 and 8 will be calculated on Day 2.
 
 </details>
 
+### Finals
+
+<div class="seating-table-container">
+
+| Name | H7 | H8 |
+|-|-:|-:|
+| Adrian M. | 1 | 1 |
+| Advay B. | 4 | 12 |
+| Alyssa T. | 1 | 1 |
+| Amelia S. | 10 | 6 |
+| Amy S. | 12 | 8 |
+| Andrea A. | 6 | 4 |
+| Anson W. | 15 | 13 |
+| Calvin C. | 9 | 9 |
+| Carl B. | 2 | 1 |
+| Catherine T. | 9 | 12 |
+| Chris Y. | 17 | 6 |
+| Chris | 1 | 2 |
+| Christopher L. | 4 | 10 |
+| Cody L. | 9 | 16 |
+| David G. | 11 | 5 |
+| David TG | 14 | 3 |
+| Ding | 3 | 3 |
+| Edward Z. | 2 | 2 |
+| Francisco G. | 9 | 6 |
+| Grant M. | 3 | 9 |
+| Harrison C. | 13 | 11 |
+| Harry H. | 14 | 15 |
+| Henry V. | 7 | 13 |
+| Hilda Z. | 6 | 4 |
+| Irene T. | 6 | 16 |
+| Isaac V. | 17 | 11 |
+| Ivy Fox | 7 | 15 |
+| JET | 13 | 15 |
+| Jeremy T. | 10 | 10 |
+| Jim Y. | 4 | 5 |
+| Johana B. | 8 | 14 |
+| Jon Jon | 7 | 13 |
+| Junyi L. | 10 | 15 |
+| Justin K. | 2 | 1 |
+| Kevin L. | 10 | 9 |
+| Kevin N. | 16 | 3 |
+| Kevin X. | 5 | 12 |
+| Kim Chow | 14 | 7 |
+| Leo Z. | 7 | 14 |
+| Loïc R. | 12 | 6 |
+| Mark T. | 16 | 12 |
+| Max S. | 3 | 16 |
+| May S. | 14 | 16 |
+| Melissa F. | 4 | 7 |
+| Michael G. | 12 | 8 |
+| Michael M. | 12 | 11 |
+| Michiko K. | 16 | 17 |
+| Miguel C. | 5 | 17 |
+| Ming | 6 | 4 |
+| Myan L. | 8 | 10 |
+| Noona | 3 | 10 |
+| P. C.-R. | 5 | 13 |
+| Patrick F. | 15 | 8 |
+| Paul C. | 16 | 5 |
+| Pokey | 17 | 7 |
+| Ray C. | 13 | 7 |
+| Ritwika B. | 8 | 14 |
+| Rob C | 2 | 1 |
+| Ryan N. | 15 | 17 |
+| Sasha-Blue D. | 13 | 17 |
+| Sébastien B. | 8 | 3 |
+| Toshihiro S. | 1 | 2 |
+| Victor S.-A. | 17 | 5 |
+| Vincent Shao | 11 | 11 |
+| Vincent Z. | 15 | 9 |
+| Wrath | 11 | 8 |
+| *Sub 1* | 5 | 14 |
+| *Sub 2* | 11 | 4 |
+
+</div>
+
 ## Standings
 
 The results as they come in are presented below. Alternatively, view the [full-featured spreadsheet](https://docs.google.com/spreadsheets/d/1CLbf9zIpI6ZRLvnem7-x5UTc45q6FeqqKF4i3B4N_rc/edit).
