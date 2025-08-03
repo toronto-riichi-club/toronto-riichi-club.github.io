@@ -4,8 +4,8 @@ categories:
 - Announcements
 tags:
 - tournaments
-title: Toronto Riichi Open 2025 Seatings and Standings
-description: The results of the Toronto Riichi Open 2025 are coming in!
+title: Toronto Riichi Open 2025 Results
+description: The results of the Toronto Riichi Open 2025 are in!
 feature_image: "/assets/logos/tro.svg"
 ---
 
