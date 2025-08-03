@@ -223,7 +223,7 @@ Seatings for Hanchan 7 and 8 will be calculated on Day 2.
 | Pokey | 17 | 7 |
 | Ray C. | 13 | 7 |
 | Ritwika B. | 8 | 14 |
-| Rob C | 2 | 1 |
+| Rob C | 2 | 2 |
 | Ryan N. | 15 | 17 |
 | Sasha-Blue D. | 13 | 17 |
 | Sébastien B. | 8 | 3 |
