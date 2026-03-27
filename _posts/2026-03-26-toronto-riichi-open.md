@@ -196,7 +196,7 @@ All times are in EDT.
 | **14:30**  | Hanchan 7
 | **15:50**  | Break
 | **16:30**  | Hanchan 8
-| **15:50**  | Break
+| **17:50**  | Break
 | **18:30**  | Awards ceremony
 | **19:00**  | Free play
 
