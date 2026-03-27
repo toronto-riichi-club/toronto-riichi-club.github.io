@@ -15,7 +15,7 @@ The Toronto Riichi Club is excited to announce the fourth Toronto Riichi Open (T
 
 [![TORI Open promo](/assets/tro/2026/tori-open-2026-promo1.png){:style="border: 1px solid"}][TORI Open announcement post]{:style="background-image: none"}
 
-[TORI Open announcement post]: {% post_url 2026-03-27-toronto-riichi-open %}
+[TORI Open announcement post]: {% post_url 2026-03-26-toronto-riichi-open %}
 
 ## Meetups
 
