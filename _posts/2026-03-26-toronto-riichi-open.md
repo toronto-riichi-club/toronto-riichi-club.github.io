@@ -15,7 +15,7 @@ redirect_from:
 
 {::options parse_block_html="true" /}
 
-The Toronto Riichi Club is excited to announce the third Toronto Riichi Open (TORI Open). We hope to see you there!
+The Toronto Riichi Club is excited to announce the fourth Toronto Riichi Open (TORI Open). We hope to see you there!
 
 All those interested should join the [TORI Open Discord server][] or send an email to [toronto-riichi-open+subscribe@googlegroups.com][] to subscribe to the mailing list.
 
