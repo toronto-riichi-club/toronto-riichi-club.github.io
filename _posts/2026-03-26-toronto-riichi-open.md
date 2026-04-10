@@ -72,7 +72,7 @@ The early bird tournament fee is **$75 CAD** if you register and pay by <time da
 
 **Registration is now open.** Fill out the [registration form][] (disponible en français) by <time datetime="2026-07-25T23:59-0400">July 25, 2025 11:59 pm EDT</time> to register for the tournament. There is a limit of 80 entrants; those registering after the limit will be put on a waiting list.
 
-[registration form]: https://forms.gle/VNUWeQ9LZuD2Bkdz5
+[registration form]: https://forms.gle/gKnD8cAxw2yw8YhV9
 
 Tournament fees are due by <time datetime="2026-08-01T23:59-0400">August 1, 2026 at 11:59 pm EDT</time> and shall be paid **via Interac e-Transfer** to `finance@torontoriichi.club` (preferred) or **via PayPal** to the Toronto Riichi Club PayPal account. If your payment is not received by that date, you forfeit your spot to the next person on the waiting list. **Cash payments will not be accepted this year.**
 
