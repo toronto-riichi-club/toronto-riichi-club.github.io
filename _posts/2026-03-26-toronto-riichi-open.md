@@ -70,11 +70,16 @@ There are a few parking lots available near the venue and are listed below. Plea
 
 The early bird tournament fee is **$75 CAD** if you register and pay by <time datetime="2026-06-06T23:59-0400">June 6, 2026 11:59 pm EDT</time>. After that date, the fee will be raised to **$85 CAD**.
 
-**Registration will open on <time datetime="2026-04-10T19:00-0400">April 10, 2026 7:00 pm EDT</time>.** There is a limit of 80 entrants; those registering after the limit will be put on a waiting list.
+**Registration is now open.** Fill out the [registration form][] (disponible en français) by <time datetime="2026-07-25T23:59-0400">July 25, 2025 11:59 pm EDT</time> to register for the tournament. There is a limit of 80 entrants; those registering after the limit will be put on a waiting list.
+
+[registration form]: https://forms.gle/VNUWeQ9LZuD2Bkdz5
 
 Tournament fees are due by <time datetime="2026-08-01T23:59-0400">August 1, 2026 at 11:59 pm EDT</time> and shall be paid **via Interac e-Transfer** to `finance@torontoriichi.club` (preferred) or **via PayPal** to the Toronto Riichi Club PayPal account. If your payment is not received by that date, you forfeit your spot to the next person on the waiting list. **Cash payments will not be accepted this year.**
 
 [tournaments@torontoriichi.club]: mailto:tournaments@torontoriichi.club
+
+<small>The registration form has been translated into French with the help of Grant M. from the Montreal Riichi Club.  
+Le formulaire d'inscription a été traduit en français avec l'assistance de Grant M. du Club riichi de Montréal.</small>
 
 #### Refund Policy
 
