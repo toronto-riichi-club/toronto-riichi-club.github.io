@@ -54,7 +54,7 @@ Canada
 
 From Union Station:
 
-1. Take the TTC subway Line 1 northbound towards Finch to Dundas Station.
+1. Take the TTC subway Line 1 northbound towards Finch to TMU Station.
 2. Exit the station and walk north along Yonge St. to Gerrard St.
 3. Walk 100m east along Gerrard St. E until the pedestrian walkway, on your right.
 4. Turn right into the walkway and enter the building on your right.
