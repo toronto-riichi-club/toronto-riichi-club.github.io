@@ -85,11 +85,10 @@ Le formulaire d'inscription a été traduit en français avec l'assistance de Gr
 
 Refunds will only be issued in case of emergencies. If you have an emergency and need to withdraw from the tournament, please contact [tournaments@torontoriichi.club][] to request a refund.
 
-<!--
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (70 registered) {#participants}
+#### Participants (45 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -97,6 +96,51 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 
 | Name | Club/Region |
 |-|-|
+| Amy S. | Capital Riichi Club (CRIC) |
+| *Arthur K.* | *Ontario, Canada* |
+| *Arturo A.-A.* | *USPML* |
+| *Carter P.* | *Chicago Area Mahjong (CAM)* |
+| Catherine T. | Toronto Riichi Club (TORI) |
+| Christopher L. | Riichi Nomi NYC |
+| *Cody L.* | *Riichi Nomi NYC* |
+| *Darren L.* | *Toronto Riichi Club (TORI)* |
+| Dennis G. | UBC Mahjong Club |
+| Ding | Riichi Mahjong UW (RMUW) |
+| Edward Z. | Philly Mah-Jawn Club |
+| *Estey G.* | *Hammergirl* |
+| *Harrison C.* | *Toronto Riichi Club (TORI)* |
+| *Harry H.* | *Riichi Mahjong UW (RMUW)* |
+| *Isaac V.* | *Toronto Riichi Club (TORI)* |
+| *Jet* | *Toronto Riichi Club (TORI)* |
+| *Jiayin H.* | *Toronto Riichi Club (TORI)* |
+| *Jim Y.* | *Capital Riichi Club (CRIC)* |
+| *Jonghwan K.* | *Montreal Riichi Club* |
+| Kim C. | Toronto Riichi Club (TORI) |
+| Leo Z. | Toronto Riichi Club (TORI) |
+| Max Odell | Toronto Riichi Club (TORI) |
+| Max S. | Riichi Nomi NYC |
+| *Michael H.* | *Toronto Riichi Club (TORI)* |
+| *Michael M.* | *Toronto Riichi Club (TORI)* |
+| *Michiko K.* | *Capital Riichi Club (CRIC)* |
+| *Miguel C.* | *Toronto Riichi Club (TORI)* |
+| *Mingmei H.* | *Toronto Riichi Club (TORI)* |
+| *Neil C.* | *Riichi Nomi NYC* |
+| *Nicholas P.* | *Toronto Riichi Club (TORI)* |
+| P. C.-R. | Capital Riichi Club (CRIC) |
+| Paul C. | Riichi Mahjong UW (RMUW) |
+| Peiyan Y. | UBC Mahjong Club |
+| *Pokey* | *Toronto Riichi Club (TORI)* |
+| PonPonKan | Toronto Riichi Club (TORI) |
+| *Ray C.* | *Seattle Riichi Mahjong Club* |
+| *Ricky C.* | *Capital Riichi Club (CRIC)* |
+| *Sui L.* | *Seattle Riichi Mahjong Club* |
+| *Stanley T.* | *Toronto Riichi Club (TORI)* |
+| *Tommy Liang* | *Toronto Riichi Club (TORI)* |
+| *Toshihiro S.* | *Capital Riichi Club (CRIC)* |
+| *Victor S.-A.* | *Club riichi de Montreal* |
+| Vincent Z. | Toronto Riichi Club (TORI) and WRPM |
+| Whale | Columbus, USA |
+| syoro | Philly Mah-Jawn Club |
 
 </div>
 
@@ -119,7 +163,6 @@ openParticipantsWhenLinked(window.location.href);
 
 }
 </script>
--->
 
 ### Food
 
