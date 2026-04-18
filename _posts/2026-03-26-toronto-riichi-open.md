@@ -88,7 +88,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (45 registered) {#participants}
+#### Participants (48 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -98,12 +98,13 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 |-|-|
 | Amy S. | Capital Riichi Club (CRIC) |
 | *Arthur K.* | *Ontario, Canada* |
-| *Arturo A.-A.* | *USPML* |
-| *Carter P.* | *Chicago Area Mahjong (CAM)* |
+| Arturo A.-A. | USPML |
+| Carter P. | Chicago Area Mahjong (CAM) |
 | Catherine T. | Toronto Riichi Club (TORI) |
 | Christopher L. | Riichi Nomi NYC |
 | *Cody L.* | *Riichi Nomi NYC* |
 | *Darren L.* | *Toronto Riichi Club (TORI)* |
+| David TG | Montreal Riichi Club |
 | Dennis G. | UBC Mahjong Club |
 | Ding | Riichi Mahjong UW (RMUW) |
 | Edward Z. | Philly Mah-Jawn Club |
@@ -129,15 +130,17 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | P. C.-R. | Capital Riichi Club (CRIC) |
 | Paul C. | Riichi Mahjong UW (RMUW) |
 | Peiyan Y. | UBC Mahjong Club |
+| *Pio Y.* | *Riichi Nomi NYC* |
 | *Pokey* | *Toronto Riichi Club (TORI)* |
-| PonPonKan | Toronto Riichi Club (TORI) |
+| SJ P. | Toronto Riichi Club (TORI) |
 | *Ray C.* | *Seattle Riichi Mahjong Club* |
 | *Ricky C.* | *Capital Riichi Club (CRIC)* |
 | *Sui L.* | *Seattle Riichi Mahjong Club* |
 | *Stanley T.* | *Toronto Riichi Club (TORI)* |
+| Tina X. | Toronto Riichi Club (TORI) |
 | *Tommy Liang* | *Toronto Riichi Club (TORI)* |
 | *Toshihiro S.* | *Capital Riichi Club (CRIC)* |
-| *Victor S.-A.* | *Club riichi de Montreal* |
+| Victor S.-A. | Club riichi de Montreal |
 | Vincent Z. | Toronto Riichi Club (TORI) and WRPM |
 | Whale | Columbus, USA |
 | syoro | Philly Mah-Jawn Club |
