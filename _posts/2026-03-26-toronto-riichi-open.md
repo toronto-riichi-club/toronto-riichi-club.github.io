@@ -103,6 +103,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Catherine T. | Toronto Riichi Club (TORI) |
 | Christopher L. | Riichi Nomi NYC |
 | *Cody L.* | *Riichi Nomi NYC* |
+| *Daniel Q.* | *Riichi Mahjong UW (RMUW)* |
 | *Darren L.* | *Toronto Riichi Club (TORI)* |
 | David TG | Montreal Riichi Club |
 | Dennis G. | UBC Mahjong Club |
