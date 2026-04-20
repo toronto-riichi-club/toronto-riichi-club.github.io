@@ -88,7 +88,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (48 registered) {#participants}
+#### Participants (49 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -118,6 +118,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | *Jonghwan K.* | *Montreal Riichi Club* |
 | Kim C. | Toronto Riichi Club (TORI) |
 | Leo Z. | Toronto Riichi Club (TORI) |
+| *Lorenzo D.* | *Montreal Riichi Club* |
 | Max Odell | Toronto Riichi Club (TORI) |
 | Max S. | Riichi Nomi NYC |
 | *Michael H.* | *Toronto Riichi Club (TORI)* |
