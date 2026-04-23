@@ -88,7 +88,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (49 registered) {#participants}
+#### Participants (52 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -102,8 +102,9 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Carter P. | Chicago Area Mahjong (CAM) |
 | Catherine T. | Toronto Riichi Club (TORI) |
 | Christopher L. | Riichi Nomi NYC |
-| *Cody L.* | *Riichi Nomi NYC* |
-| *Daniel Q.* | *Riichi Mahjong UW (RMUW)* |
+| Cody L. | Riichi Nomi NYC |
+| Collin W. | Montreal Riichi Club |
+| Daniel Q. | Riichi Mahjong UW (RMUW) |
 | *Darren L.* | *Toronto Riichi Club (TORI)* |
 | David TG | Montreal Riichi Club |
 | Dennis G. | UBC Mahjong Club |
@@ -122,7 +123,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | *Lorenzo D.* | *Montreal Riichi Club* |
 | Max Odell | Toronto Riichi Club (TORI) |
 | Max S. | Riichi Nomi NYC |
-| *Michael H.* | *Toronto Riichi Club (TORI)* |
+| Michael H. | Toronto Riichi Club (TORI) |
 | *Michael M.* | *Toronto Riichi Club (TORI)* |
 | *Michiko K.* | *Capital Riichi Club (CRIC)* |
 | *Miguel C.* | *Toronto Riichi Club (TORI)* |
@@ -145,6 +146,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Victor S.-A. | Club riichi de Montreal |
 | Vincent Z. | Toronto Riichi Club (TORI) and WRPM |
 | Whale | Columbus, USA |
+| Wrath | Toronto Riichi Club (TORI) |
 | syoro | Philly Mah-Jawn Club |
 
 </div>
