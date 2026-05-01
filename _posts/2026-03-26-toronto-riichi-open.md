@@ -15,7 +15,7 @@ redirect_from:
 
 {::options parse_block_html="true" /}
 
-The Toronto Riichi Club is excited to announce the fourth Toronto Riichi Open (TORI Open). We hope to see you there!
+The Toronto Riichi Club is excited to announce the fourth Toronto Riichi Open (TORI Open). This tournament has been certified by the American Riichi Association (ARA). We hope to see you there!
 
 All those interested should join the [TORI Open Discord server][] or send an email to [toronto-riichi-open+subscribe@googlegroups.com][] to subscribe to the mailing list.
 
@@ -88,7 +88,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (52 registered) {#participants}
+#### Participants (54 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -106,6 +106,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Collin W. | Montreal Riichi Club |
 | Daniel Q. | Riichi Mahjong UW (RMUW) |
 | *Darren L.* | *Toronto Riichi Club (TORI)* |
+| Darwin Y. | Toronto Riichi Club (TORI) |
 | David TG | Montreal Riichi Club |
 | Dennis G. | UBC Mahjong Club |
 | Ding | Riichi Mahjong UW (RMUW) |
@@ -113,7 +114,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | *Estey G.* | *Hammergirl* |
 | *Harrison C.* | *Toronto Riichi Club (TORI)* |
 | *Harry H.* | *Riichi Mahjong UW (RMUW)* |
-| *Isaac V.* | *Toronto Riichi Club (TORI)* |
+| Isaac V. | Toronto Riichi Club (TORI) |
 | *Jet* | *Toronto Riichi Club (TORI)* |
 | *Jiayin H.* | *Toronto Riichi Club (TORI)* |
 | *Jim Y.* | *Capital Riichi Club (CRIC)* |
@@ -141,10 +142,11 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | *Sui L.* | *Seattle Riichi Mahjong Club* |
 | *Stanley T.* | *Toronto Riichi Club (TORI)* |
 | Tina X. | Toronto Riichi Club (TORI) |
-| *Tommy Liang* | *Toronto Riichi Club (TORI)* |
+| Tommy Liang | Toronto Riichi Club (TORI) |
 | *Toshihiro S.* | *Capital Riichi Club (CRIC)* |
 | Victor S.-A. | Club riichi de Montreal |
 | Vincent Z. | Toronto Riichi Club (TORI) and WRPM |
+| *Weicheng Z.* | *Pacific Mahjong League (PML)* |
 | Whale | Columbus, USA |
 | Wrath | Toronto Riichi Club (TORI) |
 | syoro | Philly Mah-Jawn Club |
