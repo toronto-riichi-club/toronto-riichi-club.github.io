@@ -88,7 +88,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (54 registered) {#participants}
+#### Participants (56 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -119,6 +119,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | *Jiayin H.* | *Toronto Riichi Club (TORI)* |
 | *Jim Y.* | *Capital Riichi Club (CRIC)* |
 | *Jonghwan K.* | *Montreal Riichi Club* |
+| *Kaden C.* | *Pacific Mahjong League (PML)* |
 | Kim C. | Toronto Riichi Club (TORI) |
 | Leo Z. | Toronto Riichi Club (TORI) |
 | *Lorenzo D.* | *Montreal Riichi Club* |
@@ -126,8 +127,9 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Max S. | Riichi Nomi NYC |
 | Michael H. | Toronto Riichi Club (TORI) |
 | *Michael M.* | *Toronto Riichi Club (TORI)* |
+| *Michael X.* | *Wisconsin, USA* |
 | *Michiko K.* | *Capital Riichi Club (CRIC)* |
-| *Miguel C.* | *Toronto Riichi Club (TORI)* |
+| Miguel C. | Toronto Riichi Club (TORI) |
 | *Mingmei H.* | *Toronto Riichi Club (TORI)* |
 | *Neil C.* | *Riichi Nomi NYC* |
 | *Nicholas P.* | *Toronto Riichi Club (TORI)* |
@@ -139,7 +141,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | SJ P. | Toronto Riichi Club (TORI) |
 | *Ray C.* | *Seattle Riichi Mahjong Club* |
 | *Ricky C.* | *Capital Riichi Club (CRIC)* |
-| *Sui L.* | *Seattle Riichi Mahjong Club* |
+| Sui L. | Seattle Riichi Mahjong Club |
 | *Stanley T.* | *Toronto Riichi Club (TORI)* |
 | Tina X. | Toronto Riichi Club (TORI) |
 | Tommy Liang | Toronto Riichi Club (TORI) |
