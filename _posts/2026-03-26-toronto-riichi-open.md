@@ -88,7 +88,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (51 registered) {#participants}
+#### Participants (75 registered) {#participants}
 </summary>
 
 <div class="table-container">
@@ -96,10 +96,15 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 
 | Name | Club/Region |
 |-|-|
+| Alex L | Toronto Riichi Club (TORI) |
+| Alyssa T. | Toronto Riichi Club (TORI) |
 | Amy S. | Capital Riichi Club (CRIC) |
-| *Arthur K.* | *Ontario, Canada* |
+| Anson W. | Hong Kong Mahjong Association (HKMA) |
+| Arthur K. | Ontario, Canada |
 | Arturo A.-A. | USPML |
-| *Calvin C.* | *Riichi Nomi NYC* |
+| Bono Lam | UBC Mahjong Club |
+| Calvin C. | Riichi Nomi NYC |
+| Calvin C. | UBC Mahjong Club |
 | Carter P. | Chicago Area Mahjong (CAM) |
 | Catherine T. | Toronto Riichi Club (TORI) |
 | Christopher L. | Riichi Nomi NYC |
@@ -111,29 +116,35 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | David TG | Montreal Riichi Club |
 | Dennis G. | UBC Mahjong Club |
 | Ding | Riichi Mahjong UW (RMUW) |
+| Dustin F. | DC Riichi Mahjong |
 | Edward Z. | Philly Mah-Jawn Club |
-| *Eric L.* | *Toronto Riichi Club (TORI)* |
+| Eric L. | Toronto Riichi Club (TORI) |
 | *Estey G.* | *Hammergirl* |
 | *Grant M.* | *Montreal Riichi Club* |
 | *Harrison C.* | *Toronto Riichi Club (TORI)* |
-| *Harry H.* | *Riichi Mahjong UW (RMUW)* |
+| Harry H. | Riichi Mahjong UW (RMUW) |
 | Isaac V. | Toronto Riichi Club (TORI) |
-| *Jet* | *Toronto Riichi Club (TORI)* |
+| Jenny | Riichi Nomi NYC |
+| Jet | Toronto Riichi Club (TORI) |
 | Jiayin H. | Toronto Riichi Club (TORI) |
-| *Jim Y.* | *Capital Riichi Club (CRIC)* |
+| Jim Y. | Capital Riichi Club (CRIC) |
 | *Joachim* | *Ontario, Canada* |
 | *Jonghwan K.* | *Montreal Riichi Club* |
 | Kaden C. | Pacific Mahjong League (PML) |
+| *Kevin X.* | *Riichi Nomi NYC* |
 | Kim C. | Toronto Riichi Club (TORI) |
 | Leo Z. | Toronto Riichi Club (TORI) |
 | *Lorenzo D.* | *Montreal Riichi Club* |
+| Mark T. | Toronto Riichi Club (TORI) |
 | Max Odell | Toronto Riichi Club (TORI) |
 | Max S. | Riichi Nomi NYC |
+| Melissa F. | Riichi Nomi NYC |
 | Michael H. | Toronto Riichi Club (TORI) |
 | *Michael M.* | *Toronto Riichi Club (TORI)* |
 | Michael X. | Wisconsin, USA |
 | *Michiko K.* | *Capital Riichi Club (CRIC)* |
 | Miguel C. | Toronto Riichi Club (TORI) |
+| *Ming* | *Toronto Riichi Club (TORI)* |
 | *Mingmei H.* | *Toronto Riichi Club (TORI)* |
 | *Neil C.* | *Riichi Nomi NYC* |
 | Nicholas P. | Toronto Riichi Club (TORI) |
@@ -141,17 +152,20 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Paul C. | Riichi Mahjong UW (RMUW) |
 | Peiyan Y. | UBC Mahjong Club |
 | *Pio Y.* | *Riichi Nomi NYC* |
-| *Pokey* | *Toronto Riichi Club (TORI)* |
+| Pokey | Toronto Riichi Club (TORI) |
 | SJ P. | Toronto Riichi Club (TORI) |
 | *Ray C.* | *Seattle Riichi Mahjong Club* |
-| *Ricky C.* | *Capital Riichi Club (CRIC)* |
+| Ricky C. | Capital Riichi Club (CRIC) |
+| Robin H. | Toronto Riichi Club (TORI) |
 | Sui L. | Seattle Riichi Mahjong Club |
 | *Stanley T.* | *Toronto Riichi Club (TORI)* |
 | Tim Z. | UBC Mahjong Club |
 | Tina X. | Toronto Riichi Club (TORI) |
+| Tobi | UBC Mahjong Club |
 | Tommy Liang | Toronto Riichi Club (TORI) |
 | *Toshihiro S.* | *Capital Riichi Club (CRIC)* |
 | Victor S.-A. | Club riichi de Montreal |
+| *Vincent Shao* | *Riichi Mahjong UW (RMUW)* |
 | Vincent Z. | Toronto Riichi Club (TORI) and WRPM |
 | *Weicheng Z.* | *Pacific Mahjong League (PML)* |
 | Whale | Columbus, USA |
