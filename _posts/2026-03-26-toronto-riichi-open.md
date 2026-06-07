@@ -89,11 +89,10 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 <details id="participants-details" style="margin-top: 1em;">
 
 <summary>
-#### Participants (75 registered) {#participants}
+#### Participants (88 registered, 8 waitlisted) {#participants}
 </summary>
 
 <div class="table-container">
-
 
 | Name | Club/Region |
 |-|-|
@@ -108,6 +107,7 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Calvin C. | UBC Mahjong Club |
 | Carter P. | Chicago Area Mahjong (CAM) |
 | Catherine T. | Toronto Riichi Club (TORI) |
+| *Christine R.* | *Riichi Nomi NYC* |
 | Christopher L. | Riichi Nomi NYC |
 | Cody L. | Riichi Nomi NYC |
 | Collin W. | Montreal Riichi Club |
@@ -118,60 +118,89 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Dennis G. | UBC Mahjong Club |
 | Ding | Riichi Mahjong UW (RMUW) |
 | Dustin F. | DC Riichi Mahjong |
+| E. Jung | Toronto Riichi Club (TORI) |
 | Edward Z. | Philly Mah-Jawn Club |
 | Eric L. | Toronto Riichi Club (TORI) |
-| *Estey G.* | *Hammergirl* |
-| *Grant M.* | *Montreal Riichi Club* |
-| *Harrison C.* | *Toronto Riichi Club (TORI)* |
+| Estey G. | Hammergirl |
+| Grant M. | Montreal Riichi Club |
+| Harrison C. | Toronto Riichi Club (TORI) |
 | Harry H. | Riichi Mahjong UW (RMUW) |
 | Isaac V. | Toronto Riichi Club (TORI) |
+| Ivy Fox | Rainbow Dragon Mahjong and All Flowers Mahjong |
+| Jackie L. | UBC Mahjong Club |
 | Jenny | Riichi Nomi NYC |
 | Jet | Toronto Riichi Club (TORI) |
+| John H. | UBC Mahjong Club |
 | Jiayin H. | Toronto Riichi Club (TORI) |
 | Jim Y. | Capital Riichi Club (CRIC) |
-| *Joachim* | *Ontario, Canada* |
+| Joachim | Ontario, Canada |
 | *Jonghwan K.* | *Montreal Riichi Club* |
 | Kaden C. | Pacific Mahjong League (PML) |
-| *Kevin X.* | *Riichi Nomi NYC* |
+| Kevin N. | Riichi Nomi NYC |
+| Kevin X. | Riichi Nomi NYC |
 | Kim C. | Toronto Riichi Club (TORI) |
 | Leo Z. | Toronto Riichi Club (TORI) |
+| Li-Hsin C. | Riichi Mahjong UW (RMUW) |
 | *Lorenzo D.* | *Montreal Riichi Club* |
 | Mark T. | Toronto Riichi Club (TORI) |
 | Max Odell | Toronto Riichi Club (TORI) |
 | Max S. | Riichi Nomi NYC |
 | Melissa F. | Riichi Nomi NYC |
+| Melvin P. | Riichi Nomi NYC |
 | Michael H. | Toronto Riichi Club (TORI) |
-| *Michael M.* | *Toronto Riichi Club (TORI)* |
+| Michael M. | Toronto Riichi Club (TORI) |
 | Michael X. | Wisconsin, USA |
-| *Michiko K.* | *Capital Riichi Club (CRIC)* |
+| Michiko K. | Capital Riichi Club (CRIC) |
 | Miguel C. | Toronto Riichi Club (TORI) |
-| *Ming* | *Toronto Riichi Club (TORI)* |
+| Ming | Toronto Riichi Club (TORI) |
 | *Mingmei H.* | *Toronto Riichi Club (TORI)* |
-| *Neil C.* | *Riichi Nomi NYC* |
+| Neil C. | Riichi Nomi NYC |
 | Nicholas P. | Toronto Riichi Club (TORI) |
+| Oscar G. | Montreal Riichi Club |
 | P. C.-R. | Capital Riichi Club (CRIC) |
 | Paul C. | Riichi Mahjong UW (RMUW) |
 | Peiyan Y. | UBC Mahjong Club |
-| *Pio Y.* | *Riichi Nomi NYC* |
+| Pio Y. | Riichi Nomi NYC |
 | Pokey | Toronto Riichi Club (TORI) |
 | SJ P. | Toronto Riichi Club (TORI) |
-| *Ray C.* | *Seattle Riichi Mahjong Club* |
+| Ray C. | Seattle Riichi Mahjong Club |
+| Ryan H. | Capital Riichi Club (CRIC) |
 | Ricky C. | Capital Riichi Club (CRIC) |
+| Rizeng Z. | Seattle Riichi Mahjong Club |
 | Robin H. | Toronto Riichi Club (TORI) |
+| Rooney | UBC Mahjong Club |
 | Sui L. | Seattle Riichi Mahjong Club |
-| *Stanley T.* | *Toronto Riichi Club (TORI)* |
+| Stanley T. | Toronto Riichi Club (TORI) |
+| Thomas C. | UBC Mahjong Club |
 | Tim Z. | UBC Mahjong Club |
 | Tina X. | Toronto Riichi Club (TORI) |
 | Tobi | UBC Mahjong Club |
 | Tommy Liang | Toronto Riichi Club (TORI) |
-| *Toshihiro S.* | *Capital Riichi Club (CRIC)* |
 | Victor S.-A. | Club riichi de Montreal |
-| *Vincent Shao* | *Riichi Mahjong UW (RMUW)* |
+| Vincent Shao | Riichi Mahjong UW (RMUW) |
 | Vincent Z. | Toronto Riichi Club (TORI) and WRPM |
-| *Weicheng Z.* | *Pacific Mahjong League (PML)* |
+| Weicheng Z. | Pacific Mahjong League (PML) |
 | Whale | Columbus, USA |
 | Wrath | Toronto Riichi Club (TORI) |
 | syoro | Philly Mah-Jawn Club |
+| thomas  | Riichi Mahjong UW (RMUW) |
+
+</div>
+
+<h5>Waitlist</h5>
+
+<div class="table-container">
+
+| Name | Club/Region |
+|-|-|
+| Jonathan T. | Ontario, Canada |
+| noona | Atlanta Riichi Club |
+| Andrea A. | Toronto Riichi Club (TORI) |
+| Chris Y. | Toronto Riichi Club (TORI) |
+| David S. | McMaster Mahjong Club (MacJong) |
+| Mansha A. | McMaster Mahjong Club (MacJong) |
+| Claire L. | Riichi Nomi NYC |
+| Jolie | Riichi Mahjong UW (RMUW) |
 
 </div>
 
