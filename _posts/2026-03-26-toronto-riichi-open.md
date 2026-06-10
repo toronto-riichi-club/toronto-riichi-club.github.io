@@ -70,8 +70,9 @@ There are a few parking lots available near the venue and are listed below. Plea
 
 The early bird tournament fee is **$75 CAD** if you register and pay by <time datetime="2026-06-06T23:59-0400">June 6, 2026 11:59 pm EDT</time>. After that date, the fee will be raised to **$85 CAD**.
 
-**Registration is now open.** Fill out the [registration form][] (disponible en français) by <time datetime="2026-07-25T23:59-0400">July 25, 2026 11:59 pm EDT</time> to register for the tournament. There is a limit of 80 entrants; those registering after the limit will be put on a waiting list.  
-<ins>**update 2026-06-02**</ins>: The player cap has been reached. Any registrations made after this point will be put on the waiting list.
+**Registration is now open.** Fill out the [registration form][] (disponible en français) by <time datetime="2026-07-25T23:59-0400">July 25, 2026 11:59 pm EDT</time> to register for the tournament. There is a limit of <del>80</del> <ins>96</ins> entrants; those registering after the limit will be put on a waiting list.  
+<ins>**Update 2026-06-02**</ins>: The player cap has been reached. Any registrations made after this point will be put on the waiting list.  
+<ins>**Update 2026-06-10**</ins>: The player cap has been raised to 96. Those at the top of the waiting list will be contacted.
 
 [registration form]: https://forms.gle/gKnD8cAxw2yw8YhV9
 
