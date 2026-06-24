@@ -149,14 +149,14 @@ Refunds will only be issued in case of emergencies. If you have an emergency and
 | Kim C. | Toronto Riichi Club (TORI) |
 | Leo Z. | Toronto Riichi Club (TORI) |
 | Li-Hsin C. | Riichi Mahjong UW (RMUW) |
-| *Lorenzo D.* | *Montreal Riichi Club* |
+| Lorenzo D. | Montreal Riichi Club |
 | Mansha A. | McMaster Mahjong Club (MacJong) |
 | Mark T. | Toronto Riichi Club (TORI) |
 | Max Odell | Toronto Riichi Club (TORI) |
 | Max S. | Riichi Nomi NYC |
 | Melissa F. | Riichi Nomi NYC |
 | Melvin P. | Riichi Nomi NYC |
-| *Mentanpin* | |
+| Mentanpin | |
 | Michael M. | Toronto Riichi Club (TORI) |
 | Michael X. | Wisconsin, USA |
 | Michiko K. | Capital Riichi Club (CRIC) |
